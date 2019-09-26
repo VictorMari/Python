@@ -23,7 +23,7 @@ class PlayerScoreBoard:
         self.lower_total = 0
 
     def __repr__(self):
-        return "Upper Half total: %d \nLower Half total: %d" % (self.upper_total, self.lower_total)
+        return "Upper Half total: %d \nLower Half total: %d\n" % (self.upper_total, self.lower_total)
 
     def calculate_scores(self, rolls, category):
         self.rolls = rolls
@@ -93,10 +93,34 @@ class PlayerScoreBoard:
         category_functions = [threeOfKind, fourOfKind, fullHouse, smallStraigh, largeStraigh, yahtzee, chance]
         return category_functions
 
-board = PlayerScoreBoard()
-board.calculate_scores([5,5,5,5,5], 13)
-print(board)
-board.calculate_scores([3,3,3,4,5],7)
-print(board)
-board.calculate_scores([3,1,1,1,1], 1)
-print(board)
+class Game:
+    def __init__(self):
+        total_players = input("Enter ammount of players")
+        total_players = int(total_players)
+        score_boards = [PlayerScoreBoard()] * total_players
+        player = 1
+        for i in range(1,14):
+            for n in score_boards:
+                print("Round %d, its player %d turn" % (i,player))
+                input("Press a key to roll")
+                self.playRound()
+                player += 1
+            player = 1
+
+    def playRound(self):
+        roll = Dice()
+        
+        round_roll = 1
+        while round_roll < 4:
+            print(roll)
+            keeps = input("Enter which dice to keep or press enter to stop")
+            keeps = keeps.split(" ")
+            keeps = map(lambda x: int(x), keeps)
+            keeps = list(keeps)
+            if len(keeps) == 0:
+                break
+            
+            roll.reroll(*keeps)
+            round_roll += 1
+Game()
+
