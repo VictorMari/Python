@@ -34,7 +34,12 @@ class PlayerScoreBoard:
             self.upper_total += self.__getTotalMatchingDice__()
         else:
             self.lower_total += self.__getCurrentCategoryScore__()
+        self.grand_total += self.upper_total + self.lower_total
+    def __int__(self):
+        return self.grand_total
 
+    def __gt__(self, other):
+        return self.__int__() > int(other)
 
     def __getCurrentCategoryScore__(self):
         helpers = self.__scoreHelpers__()
@@ -95,32 +100,81 @@ class PlayerScoreBoard:
 
 class Game:
     def __init__(self):
-        total_players = input("Enter ammount of players")
+        total_players = self.getUserInput({
+            "messege": "Enter number of players",
+            "error": "Input can´t be negative"},
+            lambda x: int(x) < 1)
         total_players = int(total_players)
-        score_boards = [PlayerScoreBoard()] * total_players
+        score_boards = [0] * total_players
+        score_boards = map(lambda x: PlayerScoreBoard(), score_boards)
+        score_boards = list(score_boards)
         player = 1
-        for i in range(1,14):
+        for i in range(1,2):
             for n in score_boards:
                 print("Round %d, its player %d turn" % (i,player))
                 input("Press a key to roll")
                 self.playRound()
+                n.calculate_scores(self.rolls, self.category)
+                print(n)
                 player += 1
             player = 1
+        winner_score  = max(score_boards)
+        player_number = score_boards.index(winner_score)
+        print(f'Winner is Player{player_number}\n{winner_score}') 
+        
 
     def playRound(self):
         roll = Dice()
-        
+        category = self.getUserInput({
+            "messege": "Enter round category",
+            "error": "Category was out of range"
+        }, self.__checkCategory__)
         round_roll = 1
-        while round_roll < 4:
+        while round_roll < 3:
             print(roll)
-            keeps = input("Enter which dice to keep or press enter to stop")
+            keeps = self.getUserInput({
+                "messege": "Enter which dice to reroll",
+                "error": "Dice numbers were out of range"
+            }, self.__checkRolls__)
+            if len(keeps) == 0:
+                break
             keeps = keeps.split(" ")
             keeps = map(lambda x: int(x), keeps)
             keeps = list(keeps)
-            if len(keeps) == 0:
-                break
-            
             roll.reroll(*keeps)
             round_roll += 1
-Game()
+
+        print(roll)
+        self.category = int(category)
+        self.rolls = roll.DiceSet
+    
+    def getUserInput(self, output_info, validation):
+            while True:
+                userInput = input(output_info["messege"])
+                try:
+                    if len(userInput) == 0:
+                        print("Input can not be empty")
+                    if validation(userInput):
+                        print(output_info["error"])
+                    else:
+                        break
+                except ValueError:
+                    print("Input was NaN")
+            return userInput
+    
+    def __checkCategory__(self, uInput):
+        category = int(uInput)
+        return category < 1 or category > 13 
+
+    def __checkRolls__(self, uInput):
+        if len(uInput) == 0:
+            return False
+        for dice in uInput.split(" "):
+            if int(dice) < 0 or int(dice) > 4:
+                return True
+        return False
+
+
+if __name__ == '__main__':
+    Game()
 
