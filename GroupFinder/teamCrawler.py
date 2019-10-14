@@ -1,7 +1,7 @@
 import requests
 import json
 from teamFinder import aggregate_teams
-from teamFinder import *
+from teamFinder import Team
 # routes
 """ 
     leader board  -> /data/wow/connected-realm/{server id}/mythic-leaderboard/{dungeon id}/period/{period id}?
@@ -33,7 +33,7 @@ parameters = {
 
 def make_request(url, parameters):
     print(f"GET...{url}")
-    response = requests.get(url, params=parameters, timeout=0.3)
+    response = requests.get(url, params=parameters)
     if response.status_code == 200:
         return response.json()
     else:
@@ -80,23 +80,26 @@ def __aggregator__(groups):
     return list(hordes)
 
 
-def get_dungeon_leaderboards(realm_id):
+def get_dungeon_leaderboards(realm_id, weeks):
     period = get_current_period()
     dungeon_id = get_dungeon_index()
     players = list()
     print("Requesting dungeon leader boards")
-    for dungeon in dungeon_id:
-        route = f"{host}/data/wow/connected-realm/{realm_id}/mythic-leaderboard/{dungeon}/period/{period}"
-        leaders = make_request(route, parameters)
-        members = __aggregator__(leaders["leading_groups"])
-        players.extend(members)
-
+    for week in range(weeks):
+        for dungeon in dungeon_id:
+            route = f"{host}/data/wow/connected-realm/{realm_id}/mythic-leaderboard/{dungeon}/period/{period - week}"
+            leaders = make_request(route, parameters)
+            members = __aggregator__(leaders["leading_groups"])
+            players.extend(members)
+    #players.sort()
     return players
 
 
 if __name__ == "__main__":
-    ply = get_dungeon_leaderboards(1379)
+    ply = get_dungeon_leaderboards(1379,1)
+    ply = aggregate_teams(ply)
+    ply = map(lambda x: vars(x), ply)
 
-    with open("players.json", "w+") as f:
-        json_data = json.dumps(ply, indent=3)
+    with open("groups.json", "w+") as f:
+        json_data = json.dumps(list(ply), indent=3)
         f.write(json_data)    
