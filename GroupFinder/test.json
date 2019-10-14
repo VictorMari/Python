@@ -1,0 +1,238 @@
+[
+    {
+        "date": 1570818553000,
+        "ranking": 1,
+        "members": [
+            {
+                "profile": {
+                    "name": "ÃŸÃ¬mÃŸÃ¥mÃŸÃ¸Ã¼m",
+                    "id": 173905607,
+                    "realm": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/realm/539?namespace=dynamic-eu"
+                        },
+                        "id": 539,
+                        "slug": "archimonde"
+                    }
+                },
+                "faction": {
+                    "type": "HORDE"
+                },
+                "specialization": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/577?namespace=static-8.2.5_31884-eu"
+                    },
+                    "id": 577
+                }
+            },
+            {
+                "profile": {
+                    "name": "Tarale",
+                    "id": 172044462,
+                    "realm": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/realm/539?namespace=dynamic-eu"
+                        },
+                        "id": 539,
+                        "slug": "archimonde"
+                    }
+                },
+                "faction": {
+                    "type": "HORDE"
+                },
+                "specialization": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/256?namespace=static-8.2.5_31884-eu"
+                    },
+                    "id": 256
+                }
+            },
+            {
+                "profile": {
+                    "name": "EntrÃ x",
+                    "id": 172717090,
+                    "realm": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/realm/542?namespace=dynamic-eu"
+                        },
+                        "id": 542,
+                        "slug": "hyjal"
+                    }
+                },
+                "faction": {
+                    "type": "HORDE"
+                },
+                "specialization": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/268?namespace=static-8.2.5_31884-eu"
+                    },
+                    "id": 268
+                }
+            },
+            {
+                "profile": {
+                    "name": "Laberge",
+                    "id": 106597009,
+                    "realm": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/realm/539?namespace=dynamic-eu"
+                        },
+                        "id": 539,
+                        "slug": "archimonde"
+                    }
+                },
+                "faction": {
+                    "type": "HORDE"
+                },
+                "specialization": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/262?namespace=static-8.2.5_31884-eu"
+                    },
+                    "id": 262
+                }
+            },
+            {
+                "profile": {
+                    "name": "Mathtra",
+                    "id": 142794289,
+                    "realm": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/realm/1380?namespace=dynamic-eu"
+                        },
+                        "id": 1380,
+                        "slug": "uldum"
+                    }
+                },
+                "faction": {
+                    "type": "HORDE"
+                },
+                "specialization": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/260?namespace=static-8.2.5_31884-eu"
+                    },
+                    "id": 260
+                }
+            }
+        ],
+        "duration": 1835028,
+        "level": 20
+    },
+    {
+        "date": 1570990119000,
+        "ranking": 2,
+        "members": [
+            {
+                "profile": {
+                    "name": "LÃ³paay",
+                    "id": 106853575,
+                    "realm": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/realm/519?namespace=dynamic-eu"
+                        },
+                        "id": 519,
+                        "slug": "alakir"
+                    }
+                },
+                "faction": {
+                    "type": "HORDE"
+                },
+                "specialization": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/105?namespace=static-8.2.5_31884-eu"
+                    },
+                    "id": 105
+                }
+            },
+            {
+                "profile": {
+                    "name": "Firstrog",
+                    "id": 177111555,
+                    "realm": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/realm/1305?namespace=dynamic-eu"
+                        },
+                        "id": 1305,
+                        "slug": "kazzak"
+                    }
+                },
+                "faction": {
+                    "type": "HORDE"
+                },
+                "specialization": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/260?namespace=static-8.2.5_31884-eu"
+                    },
+                    "id": 260
+                }
+            },
+            {
+                "profile": {
+                    "name": "Quixotic",
+                    "id": 97009170,
+                    "realm": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/realm/626?namespace=dynamic-eu"
+                        },
+                        "id": 626,
+                        "slug": "ragnaros"
+                    }
+                },
+                "faction": {
+                    "type": "HORDE"
+                },
+                "specialization": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/259?namespace=static-8.2.5_31884-eu"
+                    },
+                    "id": 259
+                }
+            },
+            {
+                "profile": {
+                    "name": "Acydmaster",
+                    "id": 156596166,
+                    "realm": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/realm/1382?namespace=dynamic-eu"
+                        },
+                        "id": 1382,
+                        "slug": "sanguino"
+                    }
+                },
+                "faction": {
+                    "type": "HORDE"
+                },
+                "specialization": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/268?namespace=static-8.2.5_31884-eu"
+                    },
+                    "id": 268
+                }
+            },
+            {
+                "profile": {
+                    "name": "Addeshaman",
+                    "id": 177464844,
+                    "realm": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/realm/1305?namespace=dynamic-eu"
+                        },
+                        "id": 1305,
+                        "slug": "kazzak"
+                    }
+                },
+                "faction": {
+                    "type": "HORDE"
+                },
+                "specialization": {
+                    "key": {
+                        "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/262?namespace=static-8.2.5_31884-eu"
+                    },
+                    "id": 262
+                }
+            }
+        ],
+        "duration": 1658813,
+        "level": 19
+    }
+]
