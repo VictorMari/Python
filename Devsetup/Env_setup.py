@@ -68,20 +68,26 @@ def Node_strategies(configs):
         current_directory = os.getcwd()
         origin_path = os.path.join(current_directory, name)
         destination_path = os.path.join(configs['Installation']['Path'], name)
-        shutil.move(origin_path, destination_path)
-        print(f"Moving directory: {destination_path}\n destination: {destination_path}")
-
-        #set up permanent env variables
-        #"[Environment]::SetEnvironmentVariable("DCRCLIFILE", "C:\Users\pzsr7z\Desktop\DCRCLIFILE.txt", "User")"
-        binaries = os.path.join(destination_path, "/node.exe")
         variable_name = configs["Installation"]["Variables"][0]
-        command = f'[Environment]::SetEnvironmentVariable("{variable_name}", "{binaries}", "User")'
-        env_proces = subprocess.run(["powershell.exe", command], stderr=True)
-        print(f"Setting env variable: {variable_name}: {binaries}")
-        print(env_proces.stderr)
+        move_directories({origin_path: destination_path})
+        set_permanent_env({variable_name: destination_path})
+
     return [Download_Strategy,verify_strategy,install_strategy]
 
+def move_directories(paths):
+    for Origin, Destination in paths.items():
+        print(f"Moving directory: {Origin}\ndestination: {Destination}")
+        shutil.move(Origin, Destination)
 
+def set_permanent_env(variables):
+    #Example command to set permanent env variables using powershell
+    #"[Environment]::SetEnvironmentVariable("DCRCLIFILE", "C:\Users\pzsr7z\Desktop\DCRCLIFILE.txt", "User")"
+    for Variable, Value in variables.items():
+        print(f"Setting env: {Variable}: {Value}")
+        command = f'[Environment]::SetEnvironmentVariable("{Variable}", "{Value}", "User")'
+        env_proces = subprocess.run(["powershell.exe", command], stderr=True)
+        if env_proces.stderr:
+            print(env_proces.stderr)
 
 if __name__ == "__main__":
     with open("config.json", "r") as f:

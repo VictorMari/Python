@@ -28,7 +28,7 @@
         },
         "Installation":{
            "Path": "C:\\Users\\vmari\\Desktop",
-           "Variables":["Vcode"]
+           "Variables":["Nodezip"]
         }
     },
     "Java-JDK": {
