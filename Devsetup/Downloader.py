@@ -20,6 +20,23 @@
 
   Node -> https://nodejs.org/dist  
   node-v12.12.0-win-x64.zip
+  vscode -> {
+                osx: "https://go.microsoft.com/fwlink/?LinkID=620882",
+                win: "https://aka.ms/win32-x64-user-stable",
+                linux: "https://go.microsoft.com/fwlink/?LinkID=620884",
+                linux64: "https://go.microsoft.com/fwlink/?LinkID=620884",
+                linux32: "https://go.microsoft.com/fwlink/?LinkID=620885",
+                linux64_deb: "https://go.microsoft.com/fwlink/?LinkID=760868",
+                linux64_rpm: "https://go.microsoft.com/fwlink/?LinkID=760867",
+                linux32_deb: "https://go.microsoft.com/fwlink/?LinkID=760680",
+                linux32_rpm: "https://go.microsoft.com/fwlink/?LinkID=760681",
+                win64: "https://go.microsoft.com/fwlink/?Linkid=852157",
+                win64user: "https://aka.ms/win32-x64-user-stable",
+                winzip: "https://go.microsoft.com/fwlink/?Linkid=850641",
+                win32: "https://go.microsoft.com/fwlink/?LinkID=623230",
+                win32user: "https://aka.ms/win32-user-stable",
+                win32zip: "https://go.microsoft.com/fwlink/?LinkID=623231"
+            }
 """
 import os
 import requests
@@ -31,9 +48,17 @@ import json
 
 Node = "https://nodejs.org/dist"
 NodeIndex = f"{Node}/index.json"
+userAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+coockies = {
+    "msresearch"
+}
+
+java_cookies ={"oraclelicense": "accept-securebackup-cookie"}
 def make_request(url):
     print(f"GET...{url}")
-    response = requests.get(url)
+    headers = {"User-Agent": userAgent}
+    response = requests.get(url, headers=headers, cookies = java_cookies)
+    print(response)
     if response.ok:
         isJson = response.headers["Content-Type"] == "application/json"
         return response.json() if isJson else response.content
@@ -46,7 +71,7 @@ def DownloadZip(url):
     z = zipfile.ZipFile(io.BytesIO(file))
     z.extractall()
 
-if __name__ == "__main__":
+def donwloadNode():
     #now download
     routes = make_request(NodeIndex)
     findLts = lambda x: x["lts"] != False and x["security"] == True
@@ -57,4 +82,16 @@ if __name__ == "__main__":
     filename = f"node-{version}-win-x64.zip"
     zipRoute = f"{Node}/{version}/{filename}"
     DownloadZip(zipRoute)
+
+def downloadJava():
+    url = "https://download.oracle.com/otn-pub/java/jdk/13.0.1+9/cec27d702aa74d5a8630c65ae61e4305/jdk-13.0.1_windows-x64_bin.zip"
+    
+    DownloadZip(url)
+
+def downloadVSCode():
+    codeUrl = "https://go.microsoft.com/fwlink/?Linkid=850641"
+    DownloadZip(codeUrl)
+
+if __name__ == "__main__":
+    downloadJava()
 

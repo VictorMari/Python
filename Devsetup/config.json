@@ -1,0 +1,68 @@
+{
+    "Node": {
+        "Index-path": "index.json",
+        "url": "https://nodejs.org/dist",
+        "file-types": {
+            "Linux": [
+                "linux-arm64",
+                "linux-armv6l",
+                "linux-armv7l",
+                "linux-ppc64le",
+                "linux-s390x",
+                "linux-x64"
+            ],
+            "Windows": [
+                "win-x64.7z",
+                "win-x64.exe",
+                "win-x64.msi",
+                "win-x64.zip",
+                "win-x86.7z",
+                "win-x86.exe",
+                "win-x86.msi",
+                "win-x86.zip"
+            ],
+            "mac": [
+                "osx-x64-pkg",
+                "osx-x64-tar"
+            ]
+        },
+        "Installation":{
+           "Path": "C:\\Users\\vmari\\Desktop",
+           "Variables":["Vcode"]
+        }
+    },
+    "Java-JDK": {
+        "Download-links": {
+            "Linux": [
+                {
+                    "url": "https://download.oracle.com/otn-pub/java/jdk/13.0.1+9/cec27d702aa74d5a8630c65ae61e4305/jdk-13.0.1_linux-x64_bin.deb",
+                    "SHA256": "db366366c1dcd2844b851bc0b3538d551e996547332e35d721941358a714c2c2"
+                },
+                {
+                    "url": "https://download.oracle.com/otn-pub/java/jdk/13.0.1+9/cec27d702aa74d5a8630c65ae61e4305/jdk-13.0.1_linux-x64_bin.rpm",
+                    "SHA256": "211686acccdd5277d6db7f470d485d3d96da029023f01f7f1a2d30c75181c37f"
+                }
+            ],
+            "Mac": [
+                {
+                    "url": "https://download.oracle.com/otn-pub/java/jdk/13.0.1+9/cec27d702aa74d5a8630c65ae61e4305/jdk-13.0.1_osx-x64_bin.dmg",
+                    "SHA256": "33aa8e2e888c34cdf540d3331e0dc0aae24cf4affa2d2b0f17ed264fcee6295d"
+                },
+                {
+                    "url": "https://download.oracle.com/otn-pub/java/jdk/13.0.1+9/cec27d702aa74d5a8630c65ae61e4305/jdk-13.0.1_osx-x64_bin.tar.gz",
+                    "SHA256": "60410b175673b3d165ab2925634395cde14879322a92980f7011145bc71a2f5d"
+                }
+            ],
+            "Windows": [
+                {
+                    "url": "https://download.oracle.com/otn-pub/java/jdk/13.0.1+9/cec27d702aa74d5a8630c65ae61e4305/jdk-13.0.1_windows-x64_bin.exe",
+                    "SHA256": "7feab914bf574ae9342594e93b327717cf744917b3ae35c027a93ab909d45cef"
+                },
+                {
+                    "url": "https://download.oracle.com/otn-pub/java/jdk/13.0.1+9/cec27d702aa74d5a8630c65ae61e4305/jdk-13.0.1_windows-x64_bin.zip",
+                    "SHA256": "fda3b4dfe72e857a5714c9719e4ccc957d35bbf8df99f47221e508ac09852d3d"
+                }
+            ]
+        }
+    }
+}
