@@ -2,10 +2,10 @@ import json
 
 class Team:
     def __init__(self, run_data):
-        self.date = run_data["completed_timestamp"]
+        self.date = run_data["date"]
         self.ranking = run_data["ranking"]
         self.duration = run_data["duration"]
-        self.level = run_data["keystone_level"]
+        self.level = run_data["level"]
         self.members = run_data["members"]
 
     def _eq_(self, other):
@@ -28,9 +28,8 @@ class Team:
 
 
 class Mgroup:
-    def __init__(self, team, Id):
-        self.id = Id        
-        self.count = 1
+    def __init__(self, team, count):
+        self.count = count
         self.Team = vars(team)
 
     def __eq__(self, value):
@@ -64,6 +63,17 @@ def aggregate_teams(leaderboards):
         if group.count > 1:
             possible_teams.append(group)
     return possible_teams
+
+def get_possible_teams(leaderboards, teams):
+    if len(leaderboards) < 2:
+        return
+    
+    current_run = leaderboards[0]
+    not_equal_run = lambda x: not is_possible_team(current_run.members, x.members)
+    left_runs = list(filter(not_equal_run, leaderboards))
+
+    teams.append(current_run)
+    get_possible_teams(left_runs, teams)
 
 
 

@@ -1,6 +1,6 @@
 import requests
 import json
-from teamFinder import aggregate_teams
+from teamFinder import get_possible_teams
 from teamFinder import Team
 # routes
 """ 
@@ -18,7 +18,7 @@ from teamFinder import Team
     current period = 719
 """
 
-token = "EUudu6Y5mlFzeIJ3QfhU2F7qnvM40AJCb3"
+token = "EUBHiKIPVG5yjcM0e5dJ8jRY8c2r5hsHDv"
 host = "https://eu.api.blizzard.com"
 server_index_route = "/data/wow/connected-realm/index"
 period_index_route = "/data/wow/mythic-keystone/period/index"
@@ -96,10 +96,18 @@ def get_dungeon_leaderboards(realm_id, weeks):
 
 
 if __name__ == "__main__":
-    ply = get_dungeon_leaderboards(1379,1)
-    ply = aggregate_teams(ply)
-    ply = map(lambda x: vars(x), ply)
+    teams = list()
+    #ply = get_dungeon_leaderboards(1379,1)
+    with open("runs.json", "r") as runs:
+        leaderboard = json.load(runs)
+        leaderboard = list(map(lambda x: Team(x), leaderboard))
+        teams = list()
+        print(len(leaderboard))
 
+        get_possible_teams(leaderboard, teams)
+        print(len(teams))
+"""
     with open("groups.json", "w+") as f:
         json_data = json.dumps(list(ply), indent=3)
         f.write(json_data)    
+"""
