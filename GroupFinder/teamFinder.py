@@ -1,12 +1,32 @@
 import json
 
 class Team:
-    def __init__(self, run_data):
-        self.date = run_data["completed_timestamp"]
-        self.ranking = run_data["ranking"]
-        self.duration = run_data["duration"]
-        self.level = run_data["keystone_level"]
-        self.members = run_data["members"]
+    def __init__(self, date, ranking, duration, level, members):
+        self.date = date
+        self.ranking = ranking
+        self.duration = duration
+        self.level = level
+        self.members = members
+
+    @classmethod
+    def fromAdaptor(cls, team, model) -> "Team":
+        return cls.fromDictionary({
+            "date": team[model["date"]],
+            "ranking": team[model["ranking"]],
+            "duration": team[model["duration"]],
+            "level": team[model["level"]],
+            "members": team[model["members"]]
+        })
+
+
+    @classmethod
+    def fromDictionary(cls, team) -> "Team":
+        return cls(
+            date     = team["date"], 
+            ranking  = team["ranking"], 
+            duration = team["duration"], 
+            level    = team["level"], 
+            members  = team["members"])
 
     def _eq_(self, other):
         if other._player_id_sum_() != self._player_id_sum_():

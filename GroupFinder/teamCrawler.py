@@ -2,6 +2,7 @@ import requests
 import json
 from teamFinder import get_possible_teams
 from teamFinder import Team
+
 # routes
 """ 
     leader board  -> /data/wow/connected-realm/{server id}/mythic-leaderboard/{dungeon id}/period/{period id}?
@@ -75,8 +76,15 @@ def get_dungeon_index():
 
 
 def __aggregator__(groups):
+    bliz_api_model_adaptor = {
+        "date": "completed_timestamp",
+        "ranking": "ranking",
+        "duration": "duration",
+        "level": "keystone_level",
+        "members": "members"
+    }
     hordes = filter(lambda x: x["keystone_level"] >= 15 and x["members"][0]["faction"]["type"] == "HORDE", groups)
-    hordes = map(lambda x: Team(x), hordes)
+    hordes = map(lambda x: Team.fromAdaptor(x, bliz_api_model_adaptor), hordes)
     return list(hordes)
 
 
@@ -97,7 +105,8 @@ def get_dungeon_leaderboards(realm_id, weeks):
 
 if __name__ == "__main__":
     runs = get_dungeon_leaderboards(1379,1)
-    with open("runs.json", "w+") as f:
+    print(type(runs[0]))
+    with open("Data/runs.json", "w+") as f:
         data = list(map(lambda x: vars(x), runs))
         json_data = json.dumps(data, indent=3)
         f.write(json_data)

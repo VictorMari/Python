@@ -7670,8 +7670,126 @@
       ]
    },
    {
-      "date": 1571857619000,
+      "date": 1572144002000,
       "ranking": 70,
+      "duration": 1725557,
+      "level": 15,
+      "members": [
+         {
+            "profile": {
+               "name": "C\u00ebntr\u00e5l",
+               "id": 103974573,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1382?namespace=dynamic-eu"
+                  },
+                  "id": 1382,
+                  "slug": "sanguino"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/270?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 270
+            }
+         },
+         {
+            "profile": {
+               "name": "Kletlisbeth",
+               "id": 134158818,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1306?namespace=dynamic-eu"
+                  },
+                  "id": 1306,
+                  "slug": "tarren-mill"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/577?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 577
+            }
+         },
+         {
+            "profile": {
+               "name": "\u0411\u0430\u0444\u0430\u043d\u0435\u0442",
+               "id": 193493204,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1602?namespace=dynamic-eu"
+                  },
+                  "id": 1602,
+                  "slug": "gordunni"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/581?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 581
+            }
+         },
+         {
+            "profile": {
+               "name": "Benth",
+               "id": 141718102,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/604?namespace=dynamic-eu"
+                  },
+                  "id": 604,
+                  "slug": "thrall"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/254?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 254
+            }
+         },
+         {
+            "profile": {
+               "name": "Muil",
+               "id": 155704584,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1382?namespace=dynamic-eu"
+                  },
+                  "id": 1382,
+                  "slug": "sanguino"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/260?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 260
+            }
+         }
+      ]
+   },
+   {
+      "date": 1571857619000,
+      "ranking": 71,
       "duration": 1758804,
       "level": 15,
       "members": [
@@ -7789,7 +7907,7 @@
    },
    {
       "date": 1572015440000,
-      "ranking": 71,
+      "ranking": 72,
       "duration": 1767819,
       "level": 15,
       "members": [
@@ -7907,7 +8025,7 @@
    },
    {
       "date": 1572115240000,
-      "ranking": 72,
+      "ranking": 73,
       "duration": 1774576,
       "level": 15,
       "members": [
@@ -8025,7 +8143,7 @@
    },
    {
       "date": 1571855016000,
-      "ranking": 73,
+      "ranking": 74,
       "duration": 1776546,
       "level": 15,
       "members": [
@@ -8143,7 +8261,7 @@
    },
    {
       "date": 1571941448000,
-      "ranking": 74,
+      "ranking": 75,
       "duration": 1782606,
       "level": 15,
       "members": [
@@ -8261,7 +8379,7 @@
    },
    {
       "date": 1571961457000,
-      "ranking": 75,
+      "ranking": 76,
       "duration": 1789597,
       "level": 15,
       "members": [
@@ -8379,7 +8497,7 @@
    },
    {
       "date": 1572106798000,
-      "ranking": 76,
+      "ranking": 77,
       "duration": 1844635,
       "level": 15,
       "members": [
@@ -8497,7 +8615,7 @@
    },
    {
       "date": 1571939618000,
-      "ranking": 78,
+      "ranking": 79,
       "duration": 1896334,
       "level": 15,
       "members": [
@@ -8615,7 +8733,7 @@
    },
    {
       "date": 1572116945000,
-      "ranking": 79,
+      "ranking": 80,
       "duration": 2029453,
       "level": 15,
       "members": [
@@ -8733,7 +8851,7 @@
    },
    {
       "date": 1572107405000,
-      "ranking": 80,
+      "ranking": 81,
       "duration": 2155457,
       "level": 15,
       "members": [
@@ -8851,7 +8969,7 @@
    },
    {
       "date": 1571956509000,
-      "ranking": 81,
+      "ranking": 82,
       "duration": 2230921,
       "level": 15,
       "members": [
@@ -8969,7 +9087,7 @@
    },
    {
       "date": 1571851150000,
-      "ranking": 82,
+      "ranking": 83,
       "duration": 2328604,
       "level": 15,
       "members": [
@@ -9087,7 +9205,7 @@
    },
    {
       "date": 1571824066000,
-      "ranking": 83,
+      "ranking": 84,
       "duration": 2472480,
       "level": 15,
       "members": [
@@ -9205,7 +9323,7 @@
    },
    {
       "date": 1571852267000,
-      "ranking": 84,
+      "ranking": 85,
       "duration": 2700391,
       "level": 15,
       "members": [
@@ -10974,8 +11092,126 @@
       ]
    },
    {
-      "date": 1571925829000,
+      "date": 1572142878000,
       "ranking": 15,
+      "duration": 2144304,
+      "level": 18,
+      "members": [
+         {
+            "profile": {
+               "name": "Mortaliah",
+               "id": 74077493,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/583?namespace=dynamic-eu"
+                  },
+                  "id": 583,
+                  "slug": "eredar"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/257?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 257
+            }
+         },
+         {
+            "profile": {
+               "name": "Kangss",
+               "id": 137537224,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/625?namespace=dynamic-eu"
+                  },
+                  "id": 625,
+                  "slug": "twisting-nether"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/262?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 262
+            }
+         },
+         {
+            "profile": {
+               "name": "Ordon\u00eea",
+               "id": 123713297,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/594?namespace=dynamic-eu"
+                  },
+                  "id": 594,
+                  "slug": "nathrezim"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/581?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 581
+            }
+         },
+         {
+            "profile": {
+               "name": "Korock",
+               "id": 118496143,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/580?namespace=dynamic-eu"
+                  },
+                  "id": 580,
+                  "slug": "blackmoore"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/72?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 72
+            }
+         },
+         {
+            "profile": {
+               "name": "Donnakaran",
+               "id": 150219756,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1379?namespace=dynamic-eu"
+                  },
+                  "id": 1379,
+                  "slug": "zuljin"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/260?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 260
+            }
+         }
+      ]
+   },
+   {
+      "date": 1571925829000,
+      "ranking": 16,
       "duration": 2164992,
       "level": 18,
       "members": [
@@ -11093,7 +11329,7 @@
    },
    {
       "date": 1571852806000,
-      "ranking": 16,
+      "ranking": 17,
       "duration": 2186411,
       "level": 18,
       "members": [
@@ -11211,7 +11447,7 @@
    },
    {
       "date": 1571852571000,
-      "ranking": 17,
+      "ranking": 18,
       "duration": 1502892,
       "level": 17,
       "members": [
@@ -11329,7 +11565,7 @@
    },
    {
       "date": 1571929044000,
-      "ranking": 18,
+      "ranking": 19,
       "duration": 1604497,
       "level": 17,
       "members": [
@@ -11447,7 +11683,7 @@
    },
    {
       "date": 1572039588000,
-      "ranking": 19,
+      "ranking": 20,
       "duration": 1627869,
       "level": 17,
       "members": [
@@ -11565,7 +11801,7 @@
    },
    {
       "date": 1571971997000,
-      "ranking": 20,
+      "ranking": 21,
       "duration": 1630980,
       "level": 17,
       "members": [
@@ -11683,7 +11919,7 @@
    },
    {
       "date": 1571923153000,
-      "ranking": 21,
+      "ranking": 22,
       "duration": 1631059,
       "level": 17,
       "members": [
@@ -11801,7 +12037,7 @@
    },
    {
       "date": 1572012981000,
-      "ranking": 22,
+      "ranking": 23,
       "duration": 1675392,
       "level": 17,
       "members": [
@@ -11919,7 +12155,7 @@
    },
    {
       "date": 1571856190000,
-      "ranking": 23,
+      "ranking": 24,
       "duration": 1683748,
       "level": 17,
       "members": [
@@ -12037,7 +12273,7 @@
    },
    {
       "date": 1571868451000,
-      "ranking": 24,
+      "ranking": 25,
       "duration": 1697486,
       "level": 17,
       "members": [
@@ -12155,7 +12391,7 @@
    },
    {
       "date": 1572056951000,
-      "ranking": 25,
+      "ranking": 26,
       "duration": 1774384,
       "level": 17,
       "members": [
@@ -12272,8 +12508,126 @@
       ]
    },
    {
+      "date": 1572142939000,
+      "ranking": 27,
+      "duration": 1807599,
+      "level": 17,
+      "members": [
+         {
+            "profile": {
+               "name": "Steaz",
+               "id": 143040559,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1382?namespace=dynamic-eu"
+                  },
+                  "id": 1382,
+                  "slug": "sanguino"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/105?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 105
+            }
+         },
+         {
+            "profile": {
+               "name": "Ipar",
+               "id": 157693904,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1379?namespace=dynamic-eu"
+                  },
+                  "id": 1379,
+                  "slug": "zuljin"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/63?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 63
+            }
+         },
+         {
+            "profile": {
+               "name": "Serrat\u00econ",
+               "id": 140901383,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1306?namespace=dynamic-eu"
+                  },
+                  "id": 1306,
+                  "slug": "tarren-mill"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/260?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 260
+            }
+         },
+         {
+            "profile": {
+               "name": "Wickedrose",
+               "id": 123496858,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/506?namespace=dynamic-eu"
+                  },
+                  "id": 506,
+                  "slug": "draenor"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/577?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 577
+            }
+         },
+         {
+            "profile": {
+               "name": "Orcomaster",
+               "id": 157256888,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1380?namespace=dynamic-eu"
+                  },
+                  "id": 1380,
+                  "slug": "uldum"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/73?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 73
+            }
+         }
+      ]
+   },
+   {
       "date": 1572039682000,
-      "ranking": 26,
+      "ranking": 28,
       "duration": 1818216,
       "level": 17,
       "members": [
@@ -12391,7 +12745,7 @@
    },
    {
       "date": 1571846943000,
-      "ranking": 28,
+      "ranking": 30,
       "duration": 1885454,
       "level": 17,
       "members": [
@@ -12509,7 +12863,7 @@
    },
    {
       "date": 1571841612000,
-      "ranking": 29,
+      "ranking": 31,
       "duration": 1888528,
       "level": 17,
       "members": [
@@ -12627,7 +12981,7 @@
    },
    {
       "date": 1572025462000,
-      "ranking": 30,
+      "ranking": 32,
       "duration": 1926930,
       "level": 17,
       "members": [
@@ -12745,7 +13099,7 @@
    },
    {
       "date": 1572028802000,
-      "ranking": 31,
+      "ranking": 33,
       "duration": 1948188,
       "level": 17,
       "members": [
@@ -12863,7 +13217,7 @@
    },
    {
       "date": 1571945299000,
-      "ranking": 32,
+      "ranking": 34,
       "duration": 1965753,
       "level": 17,
       "members": [
@@ -12981,7 +13335,7 @@
    },
    {
       "date": 1571953806000,
-      "ranking": 33,
+      "ranking": 35,
       "duration": 2010842,
       "level": 17,
       "members": [
@@ -13099,7 +13453,7 @@
    },
    {
       "date": 1572023763000,
-      "ranking": 34,
+      "ranking": 36,
       "duration": 2160784,
       "level": 17,
       "members": [
@@ -13217,7 +13571,7 @@
    },
    {
       "date": 1571924992000,
-      "ranking": 35,
+      "ranking": 37,
       "duration": 2318213,
       "level": 17,
       "members": [
@@ -13335,7 +13689,7 @@
    },
    {
       "date": 1572042787000,
-      "ranking": 36,
+      "ranking": 38,
       "duration": 2536398,
       "level": 17,
       "members": [
@@ -13453,7 +13807,7 @@
    },
    {
       "date": 1571826220000,
-      "ranking": 37,
+      "ranking": 39,
       "duration": 1487972,
       "level": 16,
       "members": [
@@ -13571,7 +13925,7 @@
    },
    {
       "date": 1572050734000,
-      "ranking": 38,
+      "ranking": 40,
       "duration": 1524147,
       "level": 16,
       "members": [
@@ -13689,7 +14043,7 @@
    },
    {
       "date": 1572124697000,
-      "ranking": 39,
+      "ranking": 41,
       "duration": 1550058,
       "level": 16,
       "members": [
@@ -13807,7 +14161,7 @@
    },
    {
       "date": 1572031123000,
-      "ranking": 40,
+      "ranking": 42,
       "duration": 1700080,
       "level": 16,
       "members": [
@@ -13925,7 +14279,7 @@
    },
    {
       "date": 1571953356000,
-      "ranking": 41,
+      "ranking": 43,
       "duration": 1769541,
       "level": 16,
       "members": [
@@ -14043,7 +14397,7 @@
    },
    {
       "date": 1572105929000,
-      "ranking": 42,
+      "ranking": 44,
       "duration": 1772568,
       "level": 16,
       "members": [
@@ -14161,7 +14515,7 @@
    },
    {
       "date": 1572083014000,
-      "ranking": 43,
+      "ranking": 45,
       "duration": 1789049,
       "level": 16,
       "members": [
@@ -14278,8 +14632,126 @@
       ]
    },
    {
+      "date": 1572139584000,
+      "ranking": 46,
+      "duration": 1812116,
+      "level": 16,
+      "members": [
+         {
+            "profile": {
+               "name": "Fuexown",
+               "id": 137196162,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/581?namespace=dynamic-eu"
+                  },
+                  "id": 581,
+                  "slug": "blackrock"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/258?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 258
+            }
+         },
+         {
+            "profile": {
+               "name": "Immoeins",
+               "id": 133549296,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/580?namespace=dynamic-eu"
+                  },
+                  "id": 580,
+                  "slug": "blackmoore"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/267?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 267
+            }
+         },
+         {
+            "profile": {
+               "name": "Niightwalker",
+               "id": 161382367,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1305?namespace=dynamic-eu"
+                  },
+                  "id": 1305,
+                  "slug": "kazzak"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/577?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 577
+            }
+         },
+         {
+            "profile": {
+               "name": "\u0425\u0440\u0435\u0441\u0441\u0442\u043e\u0441",
+               "id": 171384419,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1604?namespace=dynamic-eu"
+                  },
+                  "id": 1604,
+                  "slug": "soulflayer"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/264?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 264
+            }
+         },
+         {
+            "profile": {
+               "name": "Scy",
+               "id": 153270293,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1379?namespace=dynamic-eu"
+                  },
+                  "id": 1379,
+                  "slug": "zuljin"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 66
+            }
+         }
+      ]
+   },
+   {
       "date": 1571825387000,
-      "ranking": 44,
+      "ranking": 47,
       "duration": 1855977,
       "level": 16,
       "members": [
@@ -14397,7 +14869,7 @@
    },
    {
       "date": 1571845260000,
-      "ranking": 45,
+      "ranking": 48,
       "duration": 1874870,
       "level": 16,
       "members": [
@@ -14515,7 +14987,7 @@
    },
    {
       "date": 1571945393000,
-      "ranking": 46,
+      "ranking": 49,
       "duration": 1908810,
       "level": 16,
       "members": [
@@ -14633,7 +15105,7 @@
    },
    {
       "date": 1571874853000,
-      "ranking": 47,
+      "ranking": 50,
       "duration": 1936382,
       "level": 16,
       "members": [
@@ -14751,7 +15223,7 @@
    },
    {
       "date": 1571928539000,
-      "ranking": 48,
+      "ranking": 51,
       "duration": 1954934,
       "level": 16,
       "members": [
@@ -14869,7 +15341,7 @@
    },
    {
       "date": 1571834201000,
-      "ranking": 49,
+      "ranking": 52,
       "duration": 1986305,
       "level": 16,
       "members": [
@@ -14987,7 +15459,7 @@
    },
    {
       "date": 1572088789000,
-      "ranking": 51,
+      "ranking": 54,
       "duration": 2130455,
       "level": 16,
       "members": [
@@ -15105,7 +15577,7 @@
    },
    {
       "date": 1572017838000,
-      "ranking": 52,
+      "ranking": 55,
       "duration": 2219105,
       "level": 16,
       "members": [
@@ -15222,8 +15694,126 @@
       ]
    },
    {
+      "date": 1572141387000,
+      "ranking": 56,
+      "duration": 2296146,
+      "level": 16,
+      "members": [
+         {
+            "profile": {
+               "name": "Alymerai",
+               "id": 128725760,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/626?namespace=dynamic-eu"
+                  },
+                  "id": 626,
+                  "slug": "ragnaros"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/577?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 577
+            }
+         },
+         {
+            "profile": {
+               "name": "Tomsom",
+               "id": 89415777,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1382?namespace=dynamic-eu"
+                  },
+                  "id": 1382,
+                  "slug": "sanguino"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/73?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 73
+            }
+         },
+         {
+            "profile": {
+               "name": "Muil",
+               "id": 155704584,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1382?namespace=dynamic-eu"
+                  },
+                  "id": 1382,
+                  "slug": "sanguino"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/259?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 259
+            }
+         },
+         {
+            "profile": {
+               "name": "C\u00ebntr\u00e5l",
+               "id": 103974573,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1382?namespace=dynamic-eu"
+                  },
+                  "id": 1382,
+                  "slug": "sanguino"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/270?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 270
+            }
+         },
+         {
+            "profile": {
+               "name": "Riuxz",
+               "id": 150861856,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1320?namespace=dynamic-eu"
+                  },
+                  "id": 1320,
+                  "slug": "taerar"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/577?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 577
+            }
+         }
+      ]
+   },
+   {
       "date": 1571845424000,
-      "ranking": 53,
+      "ranking": 57,
       "duration": 2805937,
       "level": 16,
       "members": [
@@ -15341,7 +15931,7 @@
    },
    {
       "date": 1571944235000,
-      "ranking": 54,
+      "ranking": 58,
       "duration": 3372628,
       "level": 16,
       "members": [
@@ -15459,7 +16049,7 @@
    },
    {
       "date": 1571851452000,
-      "ranking": 55,
+      "ranking": 59,
       "duration": 1435361,
       "level": 15,
       "members": [
@@ -15577,7 +16167,7 @@
    },
    {
       "date": 1572076258000,
-      "ranking": 56,
+      "ranking": 60,
       "duration": 1456900,
       "level": 15,
       "members": [
@@ -15695,7 +16285,7 @@
    },
    {
       "date": 1572025623000,
-      "ranking": 57,
+      "ranking": 61,
       "duration": 1492851,
       "level": 15,
       "members": [
@@ -15813,7 +16403,7 @@
    },
    {
       "date": 1572115058000,
-      "ranking": 58,
+      "ranking": 62,
       "duration": 1503716,
       "level": 15,
       "members": [
@@ -15931,7 +16521,7 @@
    },
    {
       "date": 1572038515000,
-      "ranking": 59,
+      "ranking": 63,
       "duration": 1523431,
       "level": 15,
       "members": [
@@ -16049,7 +16639,7 @@
    },
    {
       "date": 1572051270000,
-      "ranking": 60,
+      "ranking": 64,
       "duration": 1553845,
       "level": 15,
       "members": [
@@ -16167,7 +16757,7 @@
    },
    {
       "date": 1571880417000,
-      "ranking": 61,
+      "ranking": 65,
       "duration": 1575940,
       "level": 15,
       "members": [
@@ -16285,7 +16875,7 @@
    },
    {
       "date": 1572061969000,
-      "ranking": 62,
+      "ranking": 66,
       "duration": 1592931,
       "level": 15,
       "members": [
@@ -16403,7 +16993,7 @@
    },
    {
       "date": 1571925181000,
-      "ranking": 63,
+      "ranking": 67,
       "duration": 1608550,
       "level": 15,
       "members": [
@@ -16520,8 +17110,126 @@
       ]
    },
    {
+      "date": 1572144471000,
+      "ranking": 68,
+      "duration": 1618215,
+      "level": 15,
+      "members": [
+         {
+            "profile": {
+               "name": "Pleblel",
+               "id": 138656768,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/609?namespace=dynamic-eu"
+                  },
+                  "id": 609,
+                  "slug": "wrathbringer"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/260?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 260
+            }
+         },
+         {
+            "profile": {
+               "name": "F\u00efio",
+               "id": 175997316,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1301?namespace=dynamic-eu"
+                  },
+                  "id": 1301,
+                  "slug": "outland"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/64?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 64
+            }
+         },
+         {
+            "profile": {
+               "name": "Minshi",
+               "id": 172462085,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1305?namespace=dynamic-eu"
+                  },
+                  "id": 1305,
+                  "slug": "kazzak"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/102?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 102
+            }
+         },
+         {
+            "profile": {
+               "name": "Kaffeekapsel",
+               "id": 157504125,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/590?namespace=dynamic-eu"
+                  },
+                  "id": 590,
+                  "slug": "malganis"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/268?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 268
+            }
+         },
+         {
+            "profile": {
+               "name": "Mooron",
+               "id": 88566124,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1382?namespace=dynamic-eu"
+                  },
+                  "id": 1382,
+                  "slug": "sanguino"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/105?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 105
+            }
+         }
+      ]
+   },
+   {
       "date": 1572017916000,
-      "ranking": 64,
+      "ranking": 69,
       "duration": 1622654,
       "level": 15,
       "members": [
@@ -16639,7 +17347,7 @@
    },
    {
       "date": 1572025511000,
-      "ranking": 65,
+      "ranking": 70,
       "duration": 1639309,
       "level": 15,
       "members": [
@@ -16757,7 +17465,7 @@
    },
    {
       "date": 1572131587000,
-      "ranking": 66,
+      "ranking": 71,
       "duration": 1657268,
       "level": 15,
       "members": [
@@ -16875,7 +17583,7 @@
    },
    {
       "date": 1571941173000,
-      "ranking": 67,
+      "ranking": 72,
       "duration": 1689685,
       "level": 15,
       "members": [
@@ -16993,7 +17701,7 @@
    },
    {
       "date": 1572122840000,
-      "ranking": 68,
+      "ranking": 73,
       "duration": 1692709,
       "level": 15,
       "members": [
@@ -17111,7 +17819,7 @@
    },
    {
       "date": 1571825579000,
-      "ranking": 69,
+      "ranking": 74,
       "duration": 1694635,
       "level": 15,
       "members": [
@@ -17229,7 +17937,7 @@
    },
    {
       "date": 1572096227000,
-      "ranking": 71,
+      "ranking": 76,
       "duration": 1782502,
       "level": 15,
       "members": [
@@ -17347,7 +18055,7 @@
    },
    {
       "date": 1571937910000,
-      "ranking": 73,
+      "ranking": 78,
       "duration": 1791666,
       "level": 15,
       "members": [
@@ -17465,7 +18173,7 @@
    },
    {
       "date": 1572020888000,
-      "ranking": 74,
+      "ranking": 79,
       "duration": 1844174,
       "level": 15,
       "members": [
@@ -17583,7 +18291,7 @@
    },
    {
       "date": 1571871517000,
-      "ranking": 75,
+      "ranking": 80,
       "duration": 1856560,
       "level": 15,
       "members": [
@@ -17701,7 +18409,7 @@
    },
    {
       "date": 1572000669000,
-      "ranking": 76,
+      "ranking": 81,
       "duration": 1872221,
       "level": 15,
       "members": [
@@ -17819,7 +18527,7 @@
    },
    {
       "date": 1571834910000,
-      "ranking": 77,
+      "ranking": 82,
       "duration": 1913092,
       "level": 15,
       "members": [
@@ -17937,7 +18645,7 @@
    },
    {
       "date": 1572126137000,
-      "ranking": 78,
+      "ranking": 83,
       "duration": 1917453,
       "level": 15,
       "members": [
@@ -18055,7 +18763,7 @@
    },
    {
       "date": 1572100712000,
-      "ranking": 79,
+      "ranking": 84,
       "duration": 1978417,
       "level": 15,
       "members": [
@@ -18173,7 +18881,7 @@
    },
    {
       "date": 1571856328000,
-      "ranking": 80,
+      "ranking": 85,
       "duration": 2001336,
       "level": 15,
       "members": [
@@ -18291,7 +18999,7 @@
    },
    {
       "date": 1572125800000,
-      "ranking": 81,
+      "ranking": 86,
       "duration": 2001800,
       "level": 15,
       "members": [
@@ -18409,7 +19117,7 @@
    },
    {
       "date": 1571935913000,
-      "ranking": 82,
+      "ranking": 87,
       "duration": 2027641,
       "level": 15,
       "members": [
@@ -18527,7 +19235,7 @@
    },
    {
       "date": 1571928889000,
-      "ranking": 83,
+      "ranking": 88,
       "duration": 2037936,
       "level": 15,
       "members": [
@@ -18645,7 +19353,7 @@
    },
    {
       "date": 1571856574000,
-      "ranking": 84,
+      "ranking": 89,
       "duration": 2077524,
       "level": 15,
       "members": [
@@ -18763,7 +19471,7 @@
    },
    {
       "date": 1571870858000,
-      "ranking": 85,
+      "ranking": 90,
       "duration": 2116789,
       "level": 15,
       "members": [
@@ -18881,7 +19589,7 @@
    },
    {
       "date": 1572022255000,
-      "ranking": 86,
+      "ranking": 91,
       "duration": 2173633,
       "level": 15,
       "members": [
@@ -18999,7 +19707,7 @@
    },
    {
       "date": 1572102084000,
-      "ranking": 87,
+      "ranking": 92,
       "duration": 2251150,
       "level": 15,
       "members": [
@@ -19117,7 +19825,7 @@
    },
    {
       "date": 1571849692000,
-      "ranking": 88,
+      "ranking": 93,
       "duration": 2270422,
       "level": 15,
       "members": [
@@ -19235,7 +19943,7 @@
    },
    {
       "date": 1572057446000,
-      "ranking": 89,
+      "ranking": 94,
       "duration": 2282041,
       "level": 15,
       "members": [
@@ -19353,7 +20061,7 @@
    },
    {
       "date": 1572024299000,
-      "ranking": 90,
+      "ranking": 95,
       "duration": 2344077,
       "level": 15,
       "members": [
@@ -19471,7 +20179,7 @@
    },
    {
       "date": 1572108893000,
-      "ranking": 91,
+      "ranking": 96,
       "duration": 2582651,
       "level": 15,
       "members": [
@@ -23600,8 +24308,126 @@
       ]
    },
    {
-      "date": 1571884571000,
+      "date": 1572140109000,
       "ranking": 37,
+      "duration": 1838529,
+      "level": 15,
+      "members": [
+         {
+            "profile": {
+               "name": "G\u00e4mb\u00e4",
+               "id": 157186869,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1382?namespace=dynamic-eu"
+                  },
+                  "id": 1382,
+                  "slug": "sanguino"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/268?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 268
+            }
+         },
+         {
+            "profile": {
+               "name": "Arynna",
+               "id": 157811311,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1382?namespace=dynamic-eu"
+                  },
+                  "id": 1382,
+                  "slug": "sanguino"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/105?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 105
+            }
+         },
+         {
+            "profile": {
+               "name": "X\u00e0n\u00e1d\u00fc\u00ea",
+               "id": 139119331,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1306?namespace=dynamic-eu"
+                  },
+                  "id": 1306,
+                  "slug": "tarren-mill"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/71?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 71
+            }
+         },
+         {
+            "profile": {
+               "name": "Nospheratu",
+               "id": 83521672,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1305?namespace=dynamic-eu"
+                  },
+                  "id": 1305,
+                  "slug": "kazzak"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/258?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 258
+            }
+         },
+         {
+            "profile": {
+               "name": "Kaputt",
+               "id": 157697549,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1382?namespace=dynamic-eu"
+                  },
+                  "id": 1382,
+                  "slug": "sanguino"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/259?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 259
+            }
+         }
+      ]
+   },
+   {
+      "date": 1571884571000,
+      "ranking": 38,
       "duration": 1934281,
       "level": 15,
       "members": [
@@ -23719,7 +24545,7 @@
    },
    {
       "date": 1572018333000,
-      "ranking": 38,
+      "ranking": 39,
       "duration": 1948805,
       "level": 15,
       "members": [
@@ -23837,7 +24663,7 @@
    },
    {
       "date": 1571919798000,
-      "ranking": 39,
+      "ranking": 40,
       "duration": 1950567,
       "level": 15,
       "members": [
@@ -23955,7 +24781,7 @@
    },
    {
       "date": 1572023492000,
-      "ranking": 40,
+      "ranking": 41,
       "duration": 1979725,
       "level": 15,
       "members": [
@@ -24073,7 +24899,7 @@
    },
    {
       "date": 1572025372000,
-      "ranking": 41,
+      "ranking": 42,
       "duration": 1990809,
       "level": 15,
       "members": [
@@ -24191,7 +25017,7 @@
    },
    {
       "date": 1571954115000,
-      "ranking": 42,
+      "ranking": 43,
       "duration": 1991323,
       "level": 15,
       "members": [
@@ -24309,7 +25135,7 @@
    },
    {
       "date": 1572128359000,
-      "ranking": 43,
+      "ranking": 44,
       "duration": 1992924,
       "level": 15,
       "members": [
@@ -24427,7 +25253,7 @@
    },
    {
       "date": 1572047529000,
-      "ranking": 44,
+      "ranking": 45,
       "duration": 2000930,
       "level": 15,
       "members": [
@@ -24545,7 +25371,7 @@
    },
    {
       "date": 1572023511000,
-      "ranking": 45,
+      "ranking": 46,
       "duration": 2074278,
       "level": 15,
       "members": [
@@ -24663,7 +25489,7 @@
    },
    {
       "date": 1572029431000,
-      "ranking": 46,
+      "ranking": 47,
       "duration": 2079173,
       "level": 15,
       "members": [
@@ -24781,7 +25607,7 @@
    },
    {
       "date": 1572095937000,
-      "ranking": 47,
+      "ranking": 48,
       "duration": 2093175,
       "level": 15,
       "members": [
@@ -24899,7 +25725,7 @@
    },
    {
       "date": 1572078430000,
-      "ranking": 48,
+      "ranking": 49,
       "duration": 2100338,
       "level": 15,
       "members": [
@@ -25017,7 +25843,7 @@
    },
    {
       "date": 1572130111000,
-      "ranking": 49,
+      "ranking": 50,
       "duration": 2126049,
       "level": 15,
       "members": [
@@ -25135,7 +25961,7 @@
    },
    {
       "date": 1572041564000,
-      "ranking": 50,
+      "ranking": 51,
       "duration": 2134953,
       "level": 15,
       "members": [
@@ -25253,7 +26079,7 @@
    },
    {
       "date": 1571847816000,
-      "ranking": 51,
+      "ranking": 52,
       "duration": 2153247,
       "level": 15,
       "members": [
@@ -25371,7 +26197,7 @@
    },
    {
       "date": 1571849450000,
-      "ranking": 52,
+      "ranking": 53,
       "duration": 2190229,
       "level": 15,
       "members": [
@@ -25489,7 +26315,7 @@
    },
    {
       "date": 1571876985000,
-      "ranking": 53,
+      "ranking": 54,
       "duration": 2196759,
       "level": 15,
       "members": [
@@ -25607,7 +26433,7 @@
    },
    {
       "date": 1571902881000,
-      "ranking": 54,
+      "ranking": 55,
       "duration": 2304783,
       "level": 15,
       "members": [
@@ -25725,7 +26551,7 @@
    },
    {
       "date": 1572096579000,
-      "ranking": 55,
+      "ranking": 56,
       "duration": 2425845,
       "level": 15,
       "members": [
@@ -25843,7 +26669,7 @@
    },
    {
       "date": 1572121117000,
-      "ranking": 56,
+      "ranking": 57,
       "duration": 2667821,
       "level": 15,
       "members": [
@@ -25961,7 +26787,7 @@
    },
    {
       "date": 1571835666000,
-      "ranking": 57,
+      "ranking": 58,
       "duration": 2872982,
       "level": 15,
       "members": [
@@ -32922,8 +33748,126 @@
       ]
    },
    {
-      "date": 1571866904000,
+      "date": 1572142973000,
       "ranking": 59,
+      "duration": 2123107,
+      "level": 15,
+      "members": [
+         {
+            "profile": {
+               "name": "Wis\u00e9",
+               "id": 109077605,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/506?namespace=dynamic-eu"
+                  },
+                  "id": 506,
+                  "slug": "draenor"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 66
+            }
+         },
+         {
+            "profile": {
+               "name": "Rosteri",
+               "id": 158053063,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1379?namespace=dynamic-eu"
+                  },
+                  "id": 1379,
+                  "slug": "zuljin"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/65?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 65
+            }
+         },
+         {
+            "profile": {
+               "name": "Felior\u00e9",
+               "id": 140324609,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/518?namespace=dynamic-eu"
+                  },
+                  "id": 518,
+                  "slug": "agamaggan"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/62?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 62
+            }
+         },
+         {
+            "profile": {
+               "name": "Nalledh",
+               "id": 153619468,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/518?namespace=dynamic-eu"
+                  },
+                  "id": 518,
+                  "slug": "agamaggan"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/577?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 577
+            }
+         },
+         {
+            "profile": {
+               "name": "Fanten",
+               "id": 123305348,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1091?namespace=dynamic-eu"
+                  },
+                  "id": 1091,
+                  "slug": "emeriss"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/102?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 102
+            }
+         }
+      ]
+   },
+   {
+      "date": 1571866904000,
+      "ranking": 60,
       "duration": 2133186,
       "level": 15,
       "members": [
@@ -33041,7 +33985,7 @@
    },
    {
       "date": 1572098579000,
-      "ranking": 60,
+      "ranking": 61,
       "duration": 2157475,
       "level": 15,
       "members": [
@@ -33159,7 +34103,7 @@
    },
    {
       "date": 1571945484000,
-      "ranking": 61,
+      "ranking": 62,
       "duration": 2176845,
       "level": 15,
       "members": [
@@ -33277,7 +34221,7 @@
    },
    {
       "date": 1571865850000,
-      "ranking": 63,
+      "ranking": 64,
       "duration": 2230722,
       "level": 15,
       "members": [
@@ -33395,7 +34339,7 @@
    },
    {
       "date": 1571857171000,
-      "ranking": 64,
+      "ranking": 65,
       "duration": 2249559,
       "level": 15,
       "members": [
@@ -33513,7 +34457,7 @@
    },
    {
       "date": 1572050693000,
-      "ranking": 65,
+      "ranking": 66,
       "duration": 2268007,
       "level": 15,
       "members": [
@@ -33631,7 +34575,7 @@
    },
    {
       "date": 1571935551000,
-      "ranking": 67,
+      "ranking": 68,
       "duration": 2297708,
       "level": 15,
       "members": [
@@ -33749,7 +34693,7 @@
    },
    {
       "date": 1571839574000,
-      "ranking": 68,
+      "ranking": 69,
       "duration": 2299332,
       "level": 15,
       "members": [
@@ -33867,7 +34811,7 @@
    },
    {
       "date": 1571824920000,
-      "ranking": 69,
+      "ranking": 70,
       "duration": 2302430,
       "level": 15,
       "members": [
@@ -33985,7 +34929,7 @@
    },
    {
       "date": 1572124910000,
-      "ranking": 70,
+      "ranking": 71,
       "duration": 2386864,
       "level": 15,
       "members": [
@@ -34103,7 +35047,7 @@
    },
    {
       "date": 1572029958000,
-      "ranking": 71,
+      "ranking": 72,
       "duration": 2421389,
       "level": 15,
       "members": [
@@ -34221,7 +35165,7 @@
    },
    {
       "date": 1571979443000,
-      "ranking": 72,
+      "ranking": 73,
       "duration": 2798564,
       "level": 15,
       "members": [
@@ -34339,7 +35283,7 @@
    },
    {
       "date": 1572046642000,
-      "ranking": 73,
+      "ranking": 74,
       "duration": 3344076,
       "level": 15,
       "members": [
@@ -37170,8 +38114,126 @@
       ]
    },
    {
-      "date": 1572028308000,
+      "date": 1572143849000,
       "ranking": 25,
+      "duration": 1946739,
+      "level": 17,
+      "members": [
+         {
+            "profile": {
+               "name": "D\u00e4ny",
+               "id": 156089562,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1379?namespace=dynamic-eu"
+                  },
+                  "id": 1379,
+                  "slug": "zuljin"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/577?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 577
+            }
+         },
+         {
+            "profile": {
+               "name": "Nanomya",
+               "id": 147294129,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/542?namespace=dynamic-eu"
+                  },
+                  "id": 542,
+                  "slug": "hyjal"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/258?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 258
+            }
+         },
+         {
+            "profile": {
+               "name": "Aquaheall",
+               "id": 170823953,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/542?namespace=dynamic-eu"
+                  },
+                  "id": 542,
+                  "slug": "hyjal"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/262?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 262
+            }
+         },
+         {
+            "profile": {
+               "name": "Persai",
+               "id": 170296646,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/542?namespace=dynamic-eu"
+                  },
+                  "id": 542,
+                  "slug": "hyjal"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/270?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 270
+            }
+         },
+         {
+            "profile": {
+               "name": "K\u00fch",
+               "id": 177702653,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/542?namespace=dynamic-eu"
+                  },
+                  "id": 542,
+                  "slug": "hyjal"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/581?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 581
+            }
+         }
+      ]
+   },
+   {
+      "date": 1572028308000,
+      "ranking": 26,
       "duration": 1978669,
       "level": 17,
       "members": [
@@ -37289,7 +38351,7 @@
    },
    {
       "date": 1571935226000,
-      "ranking": 26,
+      "ranking": 27,
       "duration": 1980287,
       "level": 17,
       "members": [
@@ -37407,7 +38469,7 @@
    },
    {
       "date": 1571830540000,
-      "ranking": 27,
+      "ranking": 28,
       "duration": 1981788,
       "level": 17,
       "members": [
@@ -37525,7 +38587,7 @@
    },
    {
       "date": 1572129744000,
-      "ranking": 28,
+      "ranking": 29,
       "duration": 2055945,
       "level": 17,
       "members": [
@@ -37643,7 +38705,7 @@
    },
    {
       "date": 1571853530000,
-      "ranking": 29,
+      "ranking": 30,
       "duration": 2099729,
       "level": 17,
       "members": [
@@ -37761,7 +38823,7 @@
    },
    {
       "date": 1571926645000,
-      "ranking": 30,
+      "ranking": 31,
       "duration": 2189537,
       "level": 17,
       "members": [
@@ -37879,7 +38941,7 @@
    },
    {
       "date": 1571972843000,
-      "ranking": 31,
+      "ranking": 32,
       "duration": 2192107,
       "level": 17,
       "members": [
@@ -37997,7 +39059,7 @@
    },
    {
       "date": 1571932645000,
-      "ranking": 32,
+      "ranking": 33,
       "duration": 2214718,
       "level": 17,
       "members": [
@@ -38115,7 +39177,7 @@
    },
    {
       "date": 1571961570000,
-      "ranking": 33,
+      "ranking": 34,
       "duration": 2280092,
       "level": 17,
       "members": [
@@ -38233,7 +39295,7 @@
    },
    {
       "date": 1572136260000,
-      "ranking": 34,
+      "ranking": 35,
       "duration": 2294259,
       "level": 17,
       "members": [
@@ -38351,7 +39413,7 @@
    },
    {
       "date": 1571951668000,
-      "ranking": 35,
+      "ranking": 36,
       "duration": 2308388,
       "level": 17,
       "members": [
@@ -38469,7 +39531,7 @@
    },
    {
       "date": 1571931537000,
-      "ranking": 36,
+      "ranking": 37,
       "duration": 1761731,
       "level": 16,
       "members": [
@@ -38587,7 +39649,7 @@
    },
    {
       "date": 1572023650000,
-      "ranking": 37,
+      "ranking": 38,
       "duration": 1801848,
       "level": 16,
       "members": [
@@ -38705,7 +39767,7 @@
    },
    {
       "date": 1571923688000,
-      "ranking": 38,
+      "ranking": 39,
       "duration": 1821894,
       "level": 16,
       "members": [
@@ -38823,7 +39885,7 @@
    },
    {
       "date": 1571938129000,
-      "ranking": 39,
+      "ranking": 40,
       "duration": 1856466,
       "level": 16,
       "members": [
@@ -38941,7 +40003,7 @@
    },
    {
       "date": 1571860102000,
-      "ranking": 40,
+      "ranking": 41,
       "duration": 1863601,
       "level": 16,
       "members": [
@@ -39059,7 +40121,7 @@
    },
    {
       "date": 1571954597000,
-      "ranking": 41,
+      "ranking": 42,
       "duration": 1944947,
       "level": 16,
       "members": [
@@ -39177,7 +40239,7 @@
    },
    {
       "date": 1572108130000,
-      "ranking": 42,
+      "ranking": 43,
       "duration": 1954185,
       "level": 16,
       "members": [
@@ -39295,7 +40357,7 @@
    },
    {
       "date": 1571863010000,
-      "ranking": 43,
+      "ranking": 44,
       "duration": 1969301,
       "level": 16,
       "members": [
@@ -39413,7 +40475,7 @@
    },
    {
       "date": 1571871961000,
-      "ranking": 44,
+      "ranking": 45,
       "duration": 1982764,
       "level": 16,
       "members": [
@@ -39531,7 +40593,7 @@
    },
    {
       "date": 1571863996000,
-      "ranking": 45,
+      "ranking": 46,
       "duration": 2085357,
       "level": 16,
       "members": [
@@ -39649,7 +40711,7 @@
    },
    {
       "date": 1571828477000,
-      "ranking": 46,
+      "ranking": 47,
       "duration": 2155508,
       "level": 16,
       "members": [
@@ -39767,7 +40829,7 @@
    },
    {
       "date": 1571932615000,
-      "ranking": 47,
+      "ranking": 48,
       "duration": 2160743,
       "level": 16,
       "members": [
@@ -39885,7 +40947,7 @@
    },
    {
       "date": 1572044260000,
-      "ranking": 48,
+      "ranking": 49,
       "duration": 2237375,
       "level": 16,
       "members": [
@@ -40003,7 +41065,7 @@
    },
    {
       "date": 1571852230000,
-      "ranking": 50,
+      "ranking": 51,
       "duration": 2316562,
       "level": 16,
       "members": [
@@ -40121,7 +41183,7 @@
    },
    {
       "date": 1571848188000,
-      "ranking": 51,
+      "ranking": 52,
       "duration": 2344192,
       "level": 16,
       "members": [
@@ -40239,7 +41301,7 @@
    },
    {
       "date": 1572016280000,
-      "ranking": 52,
+      "ranking": 53,
       "duration": 2361121,
       "level": 16,
       "members": [
@@ -40357,7 +41419,7 @@
    },
    {
       "date": 1572046133000,
-      "ranking": 53,
+      "ranking": 54,
       "duration": 2494244,
       "level": 16,
       "members": [
@@ -40475,7 +41537,7 @@
    },
    {
       "date": 1571846035000,
-      "ranking": 54,
+      "ranking": 55,
       "duration": 2700007,
       "level": 16,
       "members": [
@@ -40593,7 +41655,7 @@
    },
    {
       "date": 1571869045000,
-      "ranking": 55,
+      "ranking": 56,
       "duration": 1609177,
       "level": 15,
       "members": [
@@ -40711,7 +41773,7 @@
    },
    {
       "date": 1572103010000,
-      "ranking": 56,
+      "ranking": 57,
       "duration": 1615022,
       "level": 15,
       "members": [
@@ -40829,7 +41891,7 @@
    },
    {
       "date": 1572116949000,
-      "ranking": 57,
+      "ranking": 58,
       "duration": 1642732,
       "level": 15,
       "members": [
@@ -40947,7 +42009,7 @@
    },
    {
       "date": 1571937203000,
-      "ranking": 58,
+      "ranking": 59,
       "duration": 1654302,
       "level": 15,
       "members": [
@@ -41064,8 +42126,126 @@
       ]
    },
    {
+      "date": 1572140486000,
+      "ranking": 60,
+      "duration": 1657899,
+      "level": 15,
+      "members": [
+         {
+            "profile": {
+               "name": "Aer\u00fds",
+               "id": 128766338,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1306?namespace=dynamic-eu"
+                  },
+                  "id": 1306,
+                  "slug": "tarren-mill"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/577?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 577
+            }
+         },
+         {
+            "profile": {
+               "name": "Tigr\u00e6l\u00f8rd",
+               "id": 159092101,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1382?namespace=dynamic-eu"
+                  },
+                  "id": 1382,
+                  "slug": "sanguino"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/105?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 105
+            }
+         },
+         {
+            "profile": {
+               "name": "Kenn\u00ec",
+               "id": 133591547,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1306?namespace=dynamic-eu"
+                  },
+                  "id": 1306,
+                  "slug": "tarren-mill"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/252?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 252
+            }
+         },
+         {
+            "profile": {
+               "name": "K\u00ecnz\u00ec",
+               "id": 152756123,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1306?namespace=dynamic-eu"
+                  },
+                  "id": 1306,
+                  "slug": "tarren-mill"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/73?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 73
+            }
+         },
+         {
+            "profile": {
+               "name": "Sweetmind",
+               "id": 151354810,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1305?namespace=dynamic-eu"
+                  },
+                  "id": 1305,
+                  "slug": "kazzak"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/262?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 262
+            }
+         }
+      ]
+   },
+   {
       "date": 1571951109000,
-      "ranking": 59,
+      "ranking": 61,
       "duration": 1666454,
       "level": 15,
       "members": [
@@ -41183,7 +42363,7 @@
    },
    {
       "date": 1572103068000,
-      "ranking": 60,
+      "ranking": 62,
       "duration": 1679127,
       "level": 15,
       "members": [
@@ -41301,7 +42481,7 @@
    },
    {
       "date": 1571849426000,
-      "ranking": 61,
+      "ranking": 63,
       "duration": 1682884,
       "level": 15,
       "members": [
@@ -41419,7 +42599,7 @@
    },
    {
       "date": 1571920037000,
-      "ranking": 62,
+      "ranking": 64,
       "duration": 1741854,
       "level": 15,
       "members": [
@@ -41537,7 +42717,7 @@
    },
    {
       "date": 1572131586000,
-      "ranking": 63,
+      "ranking": 65,
       "duration": 1743672,
       "level": 15,
       "members": [
@@ -41655,7 +42835,7 @@
    },
    {
       "date": 1572034429000,
-      "ranking": 64,
+      "ranking": 66,
       "duration": 1748348,
       "level": 15,
       "members": [
@@ -41773,7 +42953,7 @@
    },
    {
       "date": 1572119219000,
-      "ranking": 65,
+      "ranking": 67,
       "duration": 1761311,
       "level": 15,
       "members": [
@@ -41891,7 +43071,7 @@
    },
    {
       "date": 1572046628000,
-      "ranking": 66,
+      "ranking": 68,
       "duration": 1767324,
       "level": 15,
       "members": [
@@ -42009,7 +43189,7 @@
    },
    {
       "date": 1571873474000,
-      "ranking": 67,
+      "ranking": 69,
       "duration": 1769495,
       "level": 15,
       "members": [
@@ -42127,7 +43307,7 @@
    },
    {
       "date": 1572123331000,
-      "ranking": 68,
+      "ranking": 70,
       "duration": 1786319,
       "level": 15,
       "members": [
@@ -42245,7 +43425,7 @@
    },
    {
       "date": 1572028312000,
-      "ranking": 69,
+      "ranking": 71,
       "duration": 1786356,
       "level": 15,
       "members": [
@@ -42363,7 +43543,7 @@
    },
    {
       "date": 1572030365000,
-      "ranking": 70,
+      "ranking": 72,
       "duration": 1804014,
       "level": 15,
       "members": [
@@ -42481,7 +43661,7 @@
    },
    {
       "date": 1572136044000,
-      "ranking": 71,
+      "ranking": 73,
       "duration": 1806629,
       "level": 15,
       "members": [
@@ -42599,7 +43779,7 @@
    },
    {
       "date": 1572104369000,
-      "ranking": 72,
+      "ranking": 74,
       "duration": 1810452,
       "level": 15,
       "members": [
@@ -42717,7 +43897,7 @@
    },
    {
       "date": 1572026040000,
-      "ranking": 73,
+      "ranking": 75,
       "duration": 1817608,
       "level": 15,
       "members": [
@@ -42835,7 +44015,7 @@
    },
    {
       "date": 1572088414000,
-      "ranking": 74,
+      "ranking": 76,
       "duration": 1825804,
       "level": 15,
       "members": [
@@ -42953,7 +44133,7 @@
    },
    {
       "date": 1571836701000,
-      "ranking": 75,
+      "ranking": 77,
       "duration": 1829068,
       "level": 15,
       "members": [
@@ -43071,7 +44251,7 @@
    },
    {
       "date": 1571843322000,
-      "ranking": 76,
+      "ranking": 78,
       "duration": 1844063,
       "level": 15,
       "members": [
@@ -43189,7 +44369,7 @@
    },
    {
       "date": 1571833670000,
-      "ranking": 77,
+      "ranking": 79,
       "duration": 1885012,
       "level": 15,
       "members": [
@@ -43307,7 +44487,7 @@
    },
    {
       "date": 1571850437000,
-      "ranking": 78,
+      "ranking": 80,
       "duration": 1915992,
       "level": 15,
       "members": [
@@ -43425,7 +44605,7 @@
    },
    {
       "date": 1571948028000,
-      "ranking": 79,
+      "ranking": 81,
       "duration": 1997201,
       "level": 15,
       "members": [
@@ -43543,7 +44723,7 @@
    },
    {
       "date": 1572135092000,
-      "ranking": 80,
+      "ranking": 82,
       "duration": 2011078,
       "level": 15,
       "members": [
@@ -43661,7 +44841,7 @@
    },
    {
       "date": 1572046291000,
-      "ranking": 81,
+      "ranking": 83,
       "duration": 2033000,
       "level": 15,
       "members": [
@@ -43779,7 +44959,7 @@
    },
    {
       "date": 1572020584000,
-      "ranking": 82,
+      "ranking": 84,
       "duration": 2045928,
       "level": 15,
       "members": [
@@ -43897,7 +45077,7 @@
    },
    {
       "date": 1572133234000,
-      "ranking": 83,
+      "ranking": 85,
       "duration": 2695222,
       "level": 15,
       "members": [
@@ -44015,7 +45195,7 @@
    },
    {
       "date": 1571843248000,
-      "ranking": 84,
+      "ranking": 86,
       "duration": 2886255,
       "level": 15,
       "members": [
@@ -44133,7 +45313,7 @@
    },
    {
       "date": 1571846263000,
-      "ranking": 85,
+      "ranking": 87,
       "duration": 3448375,
       "level": 15,
       "members": [
@@ -48026,8 +49206,126 @@
       ]
    },
    {
-      "date": 1572130540000,
+      "date": 1572140817000,
       "ranking": 34,
+      "duration": 2436244,
+      "level": 15,
+      "members": [
+         {
+            "profile": {
+               "name": "Acejunior",
+               "id": 124648645,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/625?namespace=dynamic-eu"
+                  },
+                  "id": 625,
+                  "slug": "twisting-nether"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/577?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 577
+            }
+         },
+         {
+            "profile": {
+               "name": "Khellen",
+               "id": 157531503,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1382?namespace=dynamic-eu"
+                  },
+                  "id": 1382,
+                  "slug": "sanguino"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/267?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 267
+            }
+         },
+         {
+            "profile": {
+               "name": "Nuuglet",
+               "id": 134822003,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/625?namespace=dynamic-eu"
+                  },
+                  "id": 625,
+                  "slug": "twisting-nether"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/63?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 63
+            }
+         },
+         {
+            "profile": {
+               "name": "Mordiskit\u00f8s",
+               "id": 121979062,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1379?namespace=dynamic-eu"
+                  },
+                  "id": 1379,
+                  "slug": "zuljin"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/268?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 268
+            }
+         },
+         {
+            "profile": {
+               "name": "\u0412\u0435\u043d\u0442\u043e\u043a\u0430\u043b\u044c\u0434\u043e",
+               "id": 90436846,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1604?namespace=dynamic-eu"
+                  },
+                  "id": 1604,
+                  "slug": "soulflayer"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/105?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 105
+            }
+         }
+      ]
+   },
+   {
+      "date": 1572130540000,
+      "ranking": 35,
       "duration": 2452346,
       "level": 15,
       "members": [
@@ -48145,7 +49443,7 @@
    },
    {
       "date": 1571920096000,
-      "ranking": 36,
+      "ranking": 37,
       "duration": 2510890,
       "level": 15,
       "members": [
@@ -48263,7 +49561,7 @@
    },
    {
       "date": 1571955728000,
-      "ranking": 37,
+      "ranking": 38,
       "duration": 2512397,
       "level": 15,
       "members": [
@@ -48381,7 +49679,7 @@
    },
    {
       "date": 1571907596000,
-      "ranking": 38,
+      "ranking": 39,
       "duration": 2515498,
       "level": 15,
       "members": [
@@ -48499,7 +49797,7 @@
    },
    {
       "date": 1572084312000,
-      "ranking": 39,
+      "ranking": 40,
       "duration": 2515881,
       "level": 15,
       "members": [
@@ -48617,7 +49915,7 @@
    },
    {
       "date": 1571848608000,
-      "ranking": 40,
+      "ranking": 41,
       "duration": 2545343,
       "level": 15,
       "members": [
@@ -48735,7 +50033,7 @@
    },
    {
       "date": 1572001168000,
-      "ranking": 41,
+      "ranking": 42,
       "duration": 2549736,
       "level": 15,
       "members": [
@@ -48853,7 +50151,7 @@
    },
    {
       "date": 1572041994000,
-      "ranking": 42,
+      "ranking": 43,
       "duration": 2584516,
       "level": 15,
       "members": [
@@ -48971,7 +50269,7 @@
    },
    {
       "date": 1571852642000,
-      "ranking": 43,
+      "ranking": 44,
       "duration": 2598533,
       "level": 15,
       "members": [
@@ -49089,7 +50387,7 @@
    },
    {
       "date": 1571840421000,
-      "ranking": 44,
+      "ranking": 45,
       "duration": 2642425,
       "level": 15,
       "members": [
@@ -49207,7 +50505,7 @@
    },
    {
       "date": 1572045397000,
-      "ranking": 45,
+      "ranking": 46,
       "duration": 2724664,
       "level": 15,
       "members": [
@@ -49325,7 +50623,7 @@
    },
    {
       "date": 1572030263000,
-      "ranking": 46,
+      "ranking": 47,
       "duration": 2741915,
       "level": 15,
       "members": [
@@ -49443,7 +50741,7 @@
    },
    {
       "date": 1571847156000,
-      "ranking": 47,
+      "ranking": 48,
       "duration": 2855198,
       "level": 15,
       "members": [
@@ -49561,7 +50859,7 @@
    },
    {
       "date": 1571857396000,
-      "ranking": 48,
+      "ranking": 49,
       "duration": 2942118,
       "level": 15,
       "members": [
@@ -49679,7 +50977,7 @@
    },
    {
       "date": 1571943055000,
-      "ranking": 49,
+      "ranking": 50,
       "duration": 2986579,
       "level": 15,
       "members": [
@@ -49797,7 +51095,7 @@
    },
    {
       "date": 1571934787000,
-      "ranking": 50,
+      "ranking": 51,
       "duration": 3194077,
       "level": 15,
       "members": [
@@ -51802,8 +53100,126 @@
       ]
    },
    {
-      "date": 1571943452000,
+      "date": 1572142432000,
       "ranking": 17,
+      "duration": 2335768,
+      "level": 17,
+      "members": [
+         {
+            "profile": {
+               "name": "Senketsua",
+               "id": 114630256,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1306?namespace=dynamic-eu"
+                  },
+                  "id": 1306,
+                  "slug": "tarren-mill"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/105?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 105
+            }
+         },
+         {
+            "profile": {
+               "name": "Puriinna",
+               "id": 158433443,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1382?namespace=dynamic-eu"
+                  },
+                  "id": 1382,
+                  "slug": "sanguino"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/254?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 254
+            }
+         },
+         {
+            "profile": {
+               "name": "Ivyslam",
+               "id": 178969695,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1305?namespace=dynamic-eu"
+                  },
+                  "id": 1305,
+                  "slug": "kazzak"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/73?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 73
+            }
+         },
+         {
+            "profile": {
+               "name": "Snowynya",
+               "id": 178967713,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1305?namespace=dynamic-eu"
+                  },
+                  "id": 1305,
+                  "slug": "kazzak"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/577?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 577
+            }
+         },
+         {
+            "profile": {
+               "name": "Jakekdk",
+               "id": 106248432,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/506?namespace=dynamic-eu"
+                  },
+                  "id": 506,
+                  "slug": "draenor"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/252?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 252
+            }
+         }
+      ]
+   },
+   {
+      "date": 1571943452000,
+      "ranking": 18,
       "duration": 2395969,
       "level": 17,
       "members": [
@@ -51921,7 +53337,7 @@
    },
    {
       "date": 1572040060000,
-      "ranking": 19,
+      "ranking": 20,
       "duration": 1820130,
       "level": 16,
       "members": [
@@ -52039,7 +53455,7 @@
    },
    {
       "date": 1572043850000,
-      "ranking": 20,
+      "ranking": 21,
       "duration": 1952760,
       "level": 16,
       "members": [
@@ -52157,7 +53573,7 @@
    },
    {
       "date": 1571838939000,
-      "ranking": 21,
+      "ranking": 22,
       "duration": 1954842,
       "level": 16,
       "members": [
@@ -52275,7 +53691,7 @@
    },
    {
       "date": 1572137609000,
-      "ranking": 22,
+      "ranking": 23,
       "duration": 1983689,
       "level": 16,
       "members": [
@@ -52393,7 +53809,7 @@
    },
    {
       "date": 1572021305000,
-      "ranking": 23,
+      "ranking": 24,
       "duration": 1993483,
       "level": 16,
       "members": [
@@ -52511,7 +53927,7 @@
    },
    {
       "date": 1572026436000,
-      "ranking": 24,
+      "ranking": 25,
       "duration": 2009096,
       "level": 16,
       "members": [
@@ -52629,7 +54045,7 @@
    },
    {
       "date": 1572131120000,
-      "ranking": 25,
+      "ranking": 26,
       "duration": 2034905,
       "level": 16,
       "members": [
@@ -52747,7 +54163,7 @@
    },
    {
       "date": 1572122259000,
-      "ranking": 26,
+      "ranking": 27,
       "duration": 2046565,
       "level": 16,
       "members": [
@@ -52865,7 +54281,7 @@
    },
    {
       "date": 1571938012000,
-      "ranking": 27,
+      "ranking": 28,
       "duration": 2051170,
       "level": 16,
       "members": [
@@ -52983,7 +54399,7 @@
    },
    {
       "date": 1571844121000,
-      "ranking": 28,
+      "ranking": 29,
       "duration": 2165028,
       "level": 16,
       "members": [
@@ -53100,8 +54516,126 @@
       ]
    },
    {
+      "date": 1572144814000,
+      "ranking": 30,
+      "duration": 2178981,
+      "level": 16,
+      "members": [
+         {
+            "profile": {
+               "name": "Dreadlocks",
+               "id": 141724838,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/579?namespace=dynamic-eu"
+                  },
+                  "id": 579,
+                  "slug": "azshara"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/105?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 105
+            }
+         },
+         {
+            "profile": {
+               "name": "Ekmek",
+               "id": 124061894,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/581?namespace=dynamic-eu"
+                  },
+                  "id": 581,
+                  "slug": "blackrock"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/577?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 577
+            }
+         },
+         {
+            "profile": {
+               "name": "Ratrix",
+               "id": 131807636,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1379?namespace=dynamic-eu"
+                  },
+                  "id": 1379,
+                  "slug": "zuljin"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/267?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 267
+            }
+         },
+         {
+            "profile": {
+               "name": "L\u00f6lit\u00e1",
+               "id": 130991357,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/581?namespace=dynamic-eu"
+                  },
+                  "id": 581,
+                  "slug": "blackrock"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 66
+            }
+         },
+         {
+            "profile": {
+               "name": "Hyzteri",
+               "id": 152154588,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/625?namespace=dynamic-eu"
+                  },
+                  "id": 625,
+                  "slug": "twisting-nether"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/258?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 258
+            }
+         }
+      ]
+   },
+   {
       "date": 1572008170000,
-      "ranking": 29,
+      "ranking": 31,
       "duration": 2202732,
       "level": 16,
       "members": [
@@ -53219,7 +54753,7 @@
    },
    {
       "date": 1571854635000,
-      "ranking": 30,
+      "ranking": 32,
       "duration": 2217534,
       "level": 16,
       "members": [
@@ -53337,7 +54871,7 @@
    },
    {
       "date": 1572043836000,
-      "ranking": 31,
+      "ranking": 33,
       "duration": 2246654,
       "level": 16,
       "members": [
@@ -53455,7 +54989,7 @@
    },
    {
       "date": 1572050616000,
-      "ranking": 32,
+      "ranking": 34,
       "duration": 2368590,
       "level": 16,
       "members": [
@@ -53573,7 +55107,7 @@
    },
    {
       "date": 1572128119000,
-      "ranking": 33,
+      "ranking": 35,
       "duration": 2809470,
       "level": 16,
       "members": [
@@ -53691,7 +55225,7 @@
    },
    {
       "date": 1572110613000,
-      "ranking": 34,
+      "ranking": 36,
       "duration": 1555791,
       "level": 15,
       "members": [
@@ -53809,7 +55343,7 @@
    },
    {
       "date": 1571923626000,
-      "ranking": 35,
+      "ranking": 37,
       "duration": 1688909,
       "level": 15,
       "members": [
@@ -53927,7 +55461,7 @@
    },
    {
       "date": 1571950305000,
-      "ranking": 36,
+      "ranking": 38,
       "duration": 1844390,
       "level": 15,
       "members": [
@@ -54045,7 +55579,7 @@
    },
    {
       "date": 1572124645000,
-      "ranking": 37,
+      "ranking": 39,
       "duration": 1856815,
       "level": 15,
       "members": [
@@ -54163,7 +55697,7 @@
    },
    {
       "date": 1571947682000,
-      "ranking": 38,
+      "ranking": 40,
       "duration": 1860944,
       "level": 15,
       "members": [
@@ -54281,7 +55815,7 @@
    },
    {
       "date": 1571852095000,
-      "ranking": 39,
+      "ranking": 41,
       "duration": 1869386,
       "level": 15,
       "members": [
@@ -54399,7 +55933,7 @@
    },
    {
       "date": 1572117540000,
-      "ranking": 40,
+      "ranking": 42,
       "duration": 1887460,
       "level": 15,
       "members": [
@@ -54517,7 +56051,7 @@
    },
    {
       "date": 1571997873000,
-      "ranking": 41,
+      "ranking": 43,
       "duration": 1919494,
       "level": 15,
       "members": [
@@ -54635,7 +56169,7 @@
    },
    {
       "date": 1572018606000,
-      "ranking": 42,
+      "ranking": 44,
       "duration": 1958107,
       "level": 15,
       "members": [
@@ -54753,7 +56287,7 @@
    },
    {
       "date": 1572111088000,
-      "ranking": 43,
+      "ranking": 45,
       "duration": 1962451,
       "level": 15,
       "members": [
@@ -54871,7 +56405,7 @@
    },
    {
       "date": 1571962437000,
-      "ranking": 45,
+      "ranking": 47,
       "duration": 1987173,
       "level": 15,
       "members": [
@@ -54989,7 +56523,7 @@
    },
    {
       "date": 1572122305000,
-      "ranking": 46,
+      "ranking": 48,
       "duration": 1998305,
       "level": 15,
       "members": [
@@ -55107,7 +56641,7 @@
    },
    {
       "date": 1571939654000,
-      "ranking": 47,
+      "ranking": 49,
       "duration": 2010743,
       "level": 15,
       "members": [
@@ -55225,7 +56759,7 @@
    },
    {
       "date": 1572050198000,
-      "ranking": 48,
+      "ranking": 50,
       "duration": 2013176,
       "level": 15,
       "members": [
@@ -55343,7 +56877,7 @@
    },
    {
       "date": 1572022797000,
-      "ranking": 49,
+      "ranking": 51,
       "duration": 2024815,
       "level": 15,
       "members": [
@@ -55461,7 +56995,7 @@
    },
    {
       "date": 1572000352000,
-      "ranking": 50,
+      "ranking": 52,
       "duration": 2030099,
       "level": 15,
       "members": [
@@ -55579,7 +57113,7 @@
    },
    {
       "date": 1572112663000,
-      "ranking": 51,
+      "ranking": 53,
       "duration": 2030964,
       "level": 15,
       "members": [
@@ -55697,7 +57231,7 @@
    },
    {
       "date": 1572080745000,
-      "ranking": 52,
+      "ranking": 54,
       "duration": 2041314,
       "level": 15,
       "members": [
@@ -55815,7 +57349,7 @@
    },
    {
       "date": 1571942863000,
-      "ranking": 53,
+      "ranking": 55,
       "duration": 2044950,
       "level": 15,
       "members": [
@@ -55933,7 +57467,7 @@
    },
    {
       "date": 1571916862000,
-      "ranking": 54,
+      "ranking": 56,
       "duration": 2069685,
       "level": 15,
       "members": [
@@ -56051,7 +57585,7 @@
    },
    {
       "date": 1572026789000,
-      "ranking": 56,
+      "ranking": 58,
       "duration": 2080900,
       "level": 15,
       "members": [
@@ -56169,7 +57703,7 @@
    },
    {
       "date": 1572020049000,
-      "ranking": 57,
+      "ranking": 59,
       "duration": 2083222,
       "level": 15,
       "members": [
@@ -56287,7 +57821,7 @@
    },
    {
       "date": 1572122875000,
-      "ranking": 58,
+      "ranking": 60,
       "duration": 2153115,
       "level": 15,
       "members": [
@@ -56405,7 +57939,7 @@
    },
    {
       "date": 1571880631000,
-      "ranking": 59,
+      "ranking": 61,
       "duration": 2186327,
       "level": 15,
       "members": [
@@ -56523,7 +58057,7 @@
    },
    {
       "date": 1571875749000,
-      "ranking": 60,
+      "ranking": 62,
       "duration": 2272701,
       "level": 15,
       "members": [
@@ -56641,7 +58175,7 @@
    },
    {
       "date": 1571854299000,
-      "ranking": 61,
+      "ranking": 63,
       "duration": 2299187,
       "level": 15,
       "members": [
@@ -56759,7 +58293,7 @@
    },
    {
       "date": 1572109311000,
-      "ranking": 62,
+      "ranking": 64,
       "duration": 2337665,
       "level": 15,
       "members": [
@@ -56877,7 +58411,7 @@
    },
    {
       "date": 1572008470000,
-      "ranking": 63,
+      "ranking": 65,
       "duration": 2370065,
       "level": 15,
       "members": [
@@ -56995,7 +58529,7 @@
    },
    {
       "date": 1572005450000,
-      "ranking": 64,
+      "ranking": 66,
       "duration": 2390292,
       "level": 15,
       "members": [
@@ -57113,7 +58647,7 @@
    },
    {
       "date": 1572035368000,
-      "ranking": 65,
+      "ranking": 67,
       "duration": 2523313,
       "level": 15,
       "members": [
@@ -57231,7 +58765,7 @@
    },
    {
       "date": 1572027875000,
-      "ranking": 66,
+      "ranking": 68,
       "duration": 2529302,
       "level": 15,
       "members": [
@@ -62894,8 +64428,126 @@
       ]
    },
    {
-      "date": 1571934263000,
+      "date": 1572143812000,
       "ranking": 49,
+      "duration": 2133289,
+      "level": 16,
+      "members": [
+         {
+            "profile": {
+               "name": "Noodles",
+               "id": 9659185,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1305?namespace=dynamic-eu"
+                  },
+                  "id": 1305,
+                  "slug": "kazzak"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/105?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 105
+            }
+         },
+         {
+            "profile": {
+               "name": "Acejunior",
+               "id": 124648645,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/625?namespace=dynamic-eu"
+                  },
+                  "id": 625,
+                  "slug": "twisting-nether"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/577?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 577
+            }
+         },
+         {
+            "profile": {
+               "name": "Khellen",
+               "id": 157531503,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1382?namespace=dynamic-eu"
+                  },
+                  "id": 1382,
+                  "slug": "sanguino"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/267?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 267
+            }
+         },
+         {
+            "profile": {
+               "name": "Mordiskit\u00f8s",
+               "id": 121979062,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1379?namespace=dynamic-eu"
+                  },
+                  "id": 1379,
+                  "slug": "zuljin"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/268?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 268
+            }
+         },
+         {
+            "profile": {
+               "name": "Nuuglet",
+               "id": 134822003,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/625?namespace=dynamic-eu"
+                  },
+                  "id": 625,
+                  "slug": "twisting-nether"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/63?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 63
+            }
+         }
+      ]
+   },
+   {
+      "date": 1571934263000,
+      "ranking": 50,
       "duration": 2227434,
       "level": 16,
       "members": [
@@ -63013,7 +64665,7 @@
    },
    {
       "date": 1571868783000,
-      "ranking": 50,
+      "ranking": 51,
       "duration": 2341975,
       "level": 16,
       "members": [
@@ -63131,7 +64783,7 @@
    },
    {
       "date": 1572043468000,
-      "ranking": 51,
+      "ranking": 52,
       "duration": 2409420,
       "level": 16,
       "members": [
@@ -63249,7 +64901,7 @@
    },
    {
       "date": 1572101983000,
-      "ranking": 52,
+      "ranking": 53,
       "duration": 2706442,
       "level": 16,
       "members": [
@@ -63367,7 +65019,7 @@
    },
    {
       "date": 1571928052000,
-      "ranking": 53,
+      "ranking": 54,
       "duration": 1296125,
       "level": 15,
       "members": [
@@ -63484,8 +65136,126 @@
       ]
    },
    {
+      "date": 1572141392000,
+      "ranking": 55,
+      "duration": 1336766,
+      "level": 15,
+      "members": [
+         {
+            "profile": {
+               "name": "D\u00e4ny",
+               "id": 156089562,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1379?namespace=dynamic-eu"
+                  },
+                  "id": 1379,
+                  "slug": "zuljin"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/577?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 577
+            }
+         },
+         {
+            "profile": {
+               "name": "K\u00fch",
+               "id": 177702653,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/542?namespace=dynamic-eu"
+                  },
+                  "id": 542,
+                  "slug": "hyjal"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/581?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 581
+            }
+         },
+         {
+            "profile": {
+               "name": "Fristy",
+               "id": 144787861,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/626?namespace=dynamic-eu"
+                  },
+                  "id": 626,
+                  "slug": "ragnaros"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/577?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 577
+            }
+         },
+         {
+            "profile": {
+               "name": "Nanomya",
+               "id": 147294129,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/542?namespace=dynamic-eu"
+                  },
+                  "id": 542,
+                  "slug": "hyjal"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/258?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 258
+            }
+         },
+         {
+            "profile": {
+               "name": "Persai",
+               "id": 170296646,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/542?namespace=dynamic-eu"
+                  },
+                  "id": 542,
+                  "slug": "hyjal"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/270?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 270
+            }
+         }
+      ]
+   },
+   {
       "date": 1572108702000,
-      "ranking": 54,
+      "ranking": 56,
       "duration": 1406019,
       "level": 15,
       "members": [
@@ -63603,7 +65373,7 @@
    },
    {
       "date": 1572016883000,
-      "ranking": 55,
+      "ranking": 57,
       "duration": 1411385,
       "level": 15,
       "members": [
@@ -63721,7 +65491,7 @@
    },
    {
       "date": 1572106367000,
-      "ranking": 56,
+      "ranking": 58,
       "duration": 1480055,
       "level": 15,
       "members": [
@@ -63839,7 +65609,7 @@
    },
    {
       "date": 1571958219000,
-      "ranking": 57,
+      "ranking": 59,
       "duration": 1517808,
       "level": 15,
       "members": [
@@ -63957,7 +65727,7 @@
    },
    {
       "date": 1572034826000,
-      "ranking": 58,
+      "ranking": 60,
       "duration": 1525547,
       "level": 15,
       "members": [
@@ -64075,7 +65845,7 @@
    },
    {
       "date": 1572108833000,
-      "ranking": 59,
+      "ranking": 61,
       "duration": 1563186,
       "level": 15,
       "members": [
@@ -64193,7 +65963,7 @@
    },
    {
       "date": 1571959726000,
-      "ranking": 60,
+      "ranking": 62,
       "duration": 1576724,
       "level": 15,
       "members": [
@@ -64311,7 +66081,7 @@
    },
    {
       "date": 1572040716000,
-      "ranking": 61,
+      "ranking": 63,
       "duration": 1577852,
       "level": 15,
       "members": [
@@ -64429,7 +66199,7 @@
    },
    {
       "date": 1572088924000,
-      "ranking": 63,
+      "ranking": 65,
       "duration": 1607483,
       "level": 15,
       "members": [
@@ -64547,7 +66317,7 @@
    },
    {
       "date": 1572017848000,
-      "ranking": 64,
+      "ranking": 66,
       "duration": 1645550,
       "level": 15,
       "members": [
@@ -64665,7 +66435,7 @@
    },
    {
       "date": 1571957000000,
-      "ranking": 65,
+      "ranking": 67,
       "duration": 1683328,
       "level": 15,
       "members": [
@@ -64783,7 +66553,7 @@
    },
    {
       "date": 1572028481000,
-      "ranking": 66,
+      "ranking": 68,
       "duration": 1739354,
       "level": 15,
       "members": [
@@ -64901,7 +66671,7 @@
    },
    {
       "date": 1572044694000,
-      "ranking": 67,
+      "ranking": 69,
       "duration": 1749762,
       "level": 15,
       "members": [
@@ -65019,7 +66789,7 @@
    },
    {
       "date": 1572020822000,
-      "ranking": 68,
+      "ranking": 70,
       "duration": 1773122,
       "level": 15,
       "members": [
@@ -65137,7 +66907,7 @@
    },
    {
       "date": 1571953540000,
-      "ranking": 69,
+      "ranking": 71,
       "duration": 1818926,
       "level": 15,
       "members": [
@@ -65255,7 +67025,7 @@
    },
    {
       "date": 1571936646000,
-      "ranking": 70,
+      "ranking": 72,
       "duration": 1826111,
       "level": 15,
       "members": [
@@ -65373,7 +67143,7 @@
    },
    {
       "date": 1572039475000,
-      "ranking": 71,
+      "ranking": 73,
       "duration": 1838695,
       "level": 15,
       "members": [
@@ -65491,7 +67261,7 @@
    },
    {
       "date": 1571847619000,
-      "ranking": 72,
+      "ranking": 74,
       "duration": 1857406,
       "level": 15,
       "members": [
@@ -65609,7 +67379,7 @@
    },
    {
       "date": 1572036658000,
-      "ranking": 73,
+      "ranking": 75,
       "duration": 1887356,
       "level": 15,
       "members": [
@@ -65727,7 +67497,7 @@
    },
    {
       "date": 1571862077000,
-      "ranking": 74,
+      "ranking": 76,
       "duration": 1918045,
       "level": 15,
       "members": [
@@ -65845,7 +67615,7 @@
    },
    {
       "date": 1571928994000,
-      "ranking": 75,
+      "ranking": 77,
       "duration": 1980863,
       "level": 15,
       "members": [
@@ -65963,7 +67733,7 @@
    },
    {
       "date": 1571854148000,
-      "ranking": 76,
+      "ranking": 78,
       "duration": 1988493,
       "level": 15,
       "members": [
@@ -66081,7 +67851,7 @@
    },
    {
       "date": 1571952539000,
-      "ranking": 77,
+      "ranking": 79,
       "duration": 2134077,
       "level": 15,
       "members": [
@@ -66199,7 +67969,7 @@
    },
    {
       "date": 1571874472000,
-      "ranking": 78,
+      "ranking": 80,
       "duration": 2571132,
       "level": 15,
       "members": [
@@ -66317,7 +68087,7 @@
    },
    {
       "date": 1571944304000,
-      "ranking": 79,
+      "ranking": 81,
       "duration": 3909537,
       "level": 15,
       "members": [
@@ -69502,8 +71272,126 @@
       ]
    },
    {
-      "date": 1571919086000,
+      "date": 1572139534000,
       "ranking": 28,
+      "duration": 3315848,
+      "level": 16,
+      "members": [
+         {
+            "profile": {
+               "name": "Lamoyo",
+               "id": 108587599,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/506?namespace=dynamic-eu"
+                  },
+                  "id": 506,
+                  "slug": "draenor"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/70?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 70
+            }
+         },
+         {
+            "profile": {
+               "name": "J\u00f2y",
+               "id": 119052327,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/626?namespace=dynamic-eu"
+                  },
+                  "id": 626,
+                  "slug": "ragnaros"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/256?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 256
+            }
+         },
+         {
+            "profile": {
+               "name": "Xleeper",
+               "id": 126141460,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/506?namespace=dynamic-eu"
+                  },
+                  "id": 506,
+                  "slug": "draenor"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/268?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 268
+            }
+         },
+         {
+            "profile": {
+               "name": "Nemain",
+               "id": 146413261,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1382?namespace=dynamic-eu"
+                  },
+                  "id": 1382,
+                  "slug": "sanguino"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/262?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 262
+            }
+         },
+         {
+            "profile": {
+               "name": "Txefe",
+               "id": 153405949,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1382?namespace=dynamic-eu"
+                  },
+                  "id": 1382,
+                  "slug": "sanguino"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/260?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 260
+            }
+         }
+      ]
+   },
+   {
+      "date": 1571919086000,
+      "ranking": 29,
       "duration": 3370436,
       "level": 16,
       "members": [
@@ -69621,7 +71509,7 @@
    },
    {
       "date": 1572030838000,
-      "ranking": 29,
+      "ranking": 30,
       "duration": 3450965,
       "level": 16,
       "members": [
@@ -69739,7 +71627,7 @@
    },
    {
       "date": 1572050318000,
-      "ranking": 30,
+      "ranking": 31,
       "duration": 1868848,
       "level": 15,
       "members": [
@@ -69857,7 +71745,7 @@
    },
    {
       "date": 1572027350000,
-      "ranking": 31,
+      "ranking": 32,
       "duration": 1908950,
       "level": 15,
       "members": [
@@ -69975,7 +71863,7 @@
    },
    {
       "date": 1572073341000,
-      "ranking": 32,
+      "ranking": 33,
       "duration": 1983678,
       "level": 15,
       "members": [
@@ -70093,7 +71981,7 @@
    },
    {
       "date": 1572045451000,
-      "ranking": 34,
+      "ranking": 35,
       "duration": 2151280,
       "level": 15,
       "members": [
@@ -70211,7 +72099,7 @@
    },
    {
       "date": 1572032572000,
-      "ranking": 35,
+      "ranking": 36,
       "duration": 2158156,
       "level": 15,
       "members": [
@@ -70329,7 +72217,7 @@
    },
    {
       "date": 1572031538000,
-      "ranking": 36,
+      "ranking": 37,
       "duration": 2161432,
       "level": 15,
       "members": [
@@ -70447,7 +72335,7 @@
    },
    {
       "date": 1571930744000,
-      "ranking": 37,
+      "ranking": 38,
       "duration": 2176443,
       "level": 15,
       "members": [
@@ -70565,7 +72453,7 @@
    },
    {
       "date": 1572108471000,
-      "ranking": 38,
+      "ranking": 39,
       "duration": 2294601,
       "level": 15,
       "members": [
@@ -70683,7 +72571,7 @@
    },
    {
       "date": 1571917229000,
-      "ranking": 39,
+      "ranking": 40,
       "duration": 2307459,
       "level": 15,
       "members": [
@@ -70801,7 +72689,7 @@
    },
    {
       "date": 1572022504000,
-      "ranking": 40,
+      "ranking": 41,
       "duration": 2320038,
       "level": 15,
       "members": [
@@ -70919,7 +72807,7 @@
    },
    {
       "date": 1571972580000,
-      "ranking": 41,
+      "ranking": 42,
       "duration": 2328575,
       "level": 15,
       "members": [
@@ -71037,7 +72925,7 @@
    },
    {
       "date": 1571859098000,
-      "ranking": 42,
+      "ranking": 43,
       "duration": 2337445,
       "level": 15,
       "members": [
@@ -71155,7 +73043,7 @@
    },
    {
       "date": 1571942471000,
-      "ranking": 44,
+      "ranking": 45,
       "duration": 2384004,
       "level": 15,
       "members": [
@@ -71273,7 +73161,7 @@
    },
    {
       "date": 1572035713000,
-      "ranking": 45,
+      "ranking": 46,
       "duration": 2408620,
       "level": 15,
       "members": [
@@ -71391,7 +73279,7 @@
    },
    {
       "date": 1571859092000,
-      "ranking": 46,
+      "ranking": 47,
       "duration": 2433629,
       "level": 15,
       "members": [
@@ -71509,7 +73397,7 @@
    },
    {
       "date": 1571876992000,
-      "ranking": 47,
+      "ranking": 48,
       "duration": 2554876,
       "level": 15,
       "members": [
@@ -71627,7 +73515,7 @@
    },
    {
       "date": 1571996525000,
-      "ranking": 48,
+      "ranking": 49,
       "duration": 2678586,
       "level": 15,
       "members": [
@@ -71745,7 +73633,7 @@
    },
    {
       "date": 1571861325000,
-      "ranking": 49,
+      "ranking": 50,
       "duration": 2767208,
       "level": 15,
       "members": [
@@ -71863,7 +73751,7 @@
    },
    {
       "date": 1571936950000,
-      "ranking": 50,
+      "ranking": 51,
       "duration": 2810945,
       "level": 15,
       "members": [
@@ -71981,7 +73869,7 @@
    },
    {
       "date": 1572010511000,
-      "ranking": 51,
+      "ranking": 52,
       "duration": 2874297,
       "level": 15,
       "members": [
@@ -72099,7 +73987,7 @@
    },
    {
       "date": 1572005530000,
-      "ranking": 52,
+      "ranking": 53,
       "duration": 3047139,
       "level": 15,
       "members": [
@@ -72570,8 +74458,126 @@
       ]
    },
    {
-      "date": 1571937590000,
+      "date": 1572139548000,
       "ranking": 4,
+      "duration": 2235746,
+      "level": 19,
+      "members": [
+         {
+            "profile": {
+               "name": "Ipar",
+               "id": 157693904,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1379?namespace=dynamic-eu"
+                  },
+                  "id": 1379,
+                  "slug": "zuljin"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/63?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 63
+            }
+         },
+         {
+            "profile": {
+               "name": "Steaz",
+               "id": 143040559,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1382?namespace=dynamic-eu"
+                  },
+                  "id": 1382,
+                  "slug": "sanguino"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/105?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 105
+            }
+         },
+         {
+            "profile": {
+               "name": "Xeinon",
+               "id": 131844818,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/581?namespace=dynamic-eu"
+                  },
+                  "id": 581,
+                  "slug": "blackrock"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/577?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 577
+            }
+         },
+         {
+            "profile": {
+               "name": "Orcomaster",
+               "id": 157256888,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1380?namespace=dynamic-eu"
+                  },
+                  "id": 1380,
+                  "slug": "uldum"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/73?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 73
+            }
+         },
+         {
+            "profile": {
+               "name": "Djakuzzi",
+               "id": 164385950,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/539?namespace=dynamic-eu"
+                  },
+                  "id": 539,
+                  "slug": "archimonde"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/260?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 260
+            }
+         }
+      ]
+   },
+   {
+      "date": 1571937590000,
+      "ranking": 5,
       "duration": 2297353,
       "level": 19,
       "members": [
@@ -72689,7 +74695,7 @@
    },
    {
       "date": 1572015039000,
-      "ranking": 5,
+      "ranking": 6,
       "duration": 2560134,
       "level": 19,
       "members": [
@@ -72807,7 +74813,7 @@
    },
    {
       "date": 1572028591000,
-      "ranking": 6,
+      "ranking": 7,
       "duration": 4152361,
       "level": 19,
       "members": [
@@ -72925,7 +74931,7 @@
    },
    {
       "date": 1572025574000,
-      "ranking": 7,
+      "ranking": 8,
       "duration": 1926772,
       "level": 18,
       "members": [
@@ -73043,7 +75049,7 @@
    },
    {
       "date": 1571960126000,
-      "ranking": 8,
+      "ranking": 9,
       "duration": 2053158,
       "level": 18,
       "members": [
@@ -73161,7 +75167,7 @@
    },
    {
       "date": 1571968812000,
-      "ranking": 9,
+      "ranking": 10,
       "duration": 2090079,
       "level": 18,
       "members": [
@@ -73279,7 +75285,7 @@
    },
    {
       "date": 1571849418000,
-      "ranking": 10,
+      "ranking": 11,
       "duration": 2135751,
       "level": 18,
       "members": [
@@ -73397,7 +75403,7 @@
    },
    {
       "date": 1571964278000,
-      "ranking": 11,
+      "ranking": 12,
       "duration": 2259367,
       "level": 18,
       "members": [
@@ -73515,7 +75521,7 @@
    },
    {
       "date": 1571845088000,
-      "ranking": 12,
+      "ranking": 13,
       "duration": 2443235,
       "level": 18,
       "members": [
@@ -73633,7 +75639,7 @@
    },
    {
       "date": 1571941744000,
-      "ranking": 13,
+      "ranking": 14,
       "duration": 2466583,
       "level": 18,
       "members": [
@@ -73751,7 +75757,7 @@
    },
    {
       "date": 1571852410000,
-      "ranking": 14,
+      "ranking": 15,
       "duration": 1865952,
       "level": 17,
       "members": [
@@ -73869,7 +75875,7 @@
    },
    {
       "date": 1571919977000,
-      "ranking": 15,
+      "ranking": 16,
       "duration": 1904001,
       "level": 17,
       "members": [
@@ -73987,7 +75993,7 @@
    },
    {
       "date": 1572101417000,
-      "ranking": 16,
+      "ranking": 17,
       "duration": 1957057,
       "level": 17,
       "members": [
@@ -74104,8 +76110,126 @@
       ]
    },
    {
+      "date": 1572143483000,
+      "ranking": 18,
+      "duration": 2005713,
+      "level": 17,
+      "members": [
+         {
+            "profile": {
+               "name": "Freiy\u00e4",
+               "id": 158630500,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1382?namespace=dynamic-eu"
+                  },
+                  "id": 1382,
+                  "slug": "sanguino"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/105?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 105
+            }
+         },
+         {
+            "profile": {
+               "name": "Betaskill",
+               "id": 141054358,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/581?namespace=dynamic-eu"
+                  },
+                  "id": 581,
+                  "slug": "blackrock"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/577?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 577
+            }
+         },
+         {
+            "profile": {
+               "name": "\u042d\u0438\u0440\u0431\u043b\u0435\u0439\u0434",
+               "id": 191052283,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1604?namespace=dynamic-eu"
+                  },
+                  "id": 1604,
+                  "slug": "soulflayer"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/252?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 252
+            }
+         },
+         {
+            "profile": {
+               "name": "Dmxgainspro",
+               "id": 115676824,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/506?namespace=dynamic-eu"
+                  },
+                  "id": 506,
+                  "slug": "draenor"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/73?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 73
+            }
+         },
+         {
+            "profile": {
+               "name": "Elebrah",
+               "id": 139430449,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/581?namespace=dynamic-eu"
+                  },
+                  "id": 581,
+                  "slug": "blackrock"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/262?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 262
+            }
+         }
+      ]
+   },
+   {
       "date": 1571925348000,
-      "ranking": 17,
+      "ranking": 19,
       "duration": 2061573,
       "level": 17,
       "members": [
@@ -74223,7 +76347,7 @@
    },
    {
       "date": 1572049898000,
-      "ranking": 18,
+      "ranking": 20,
       "duration": 2066348,
       "level": 17,
       "members": [
@@ -74341,7 +76465,7 @@
    },
    {
       "date": 1572084672000,
-      "ranking": 19,
+      "ranking": 21,
       "duration": 2111522,
       "level": 17,
       "members": [
@@ -74459,7 +76583,7 @@
    },
    {
       "date": 1571871691000,
-      "ranking": 20,
+      "ranking": 22,
       "duration": 2190971,
       "level": 17,
       "members": [
@@ -74577,7 +76701,7 @@
    },
    {
       "date": 1571938353000,
-      "ranking": 21,
+      "ranking": 23,
       "duration": 2211575,
       "level": 17,
       "members": [
@@ -74694,8 +76818,126 @@
       ]
    },
    {
+      "date": 1572143724000,
+      "ranking": 24,
+      "duration": 2398329,
+      "level": 17,
+      "members": [
+         {
+            "profile": {
+               "name": "K\u00ecnz\u00ec",
+               "id": 152756123,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1306?namespace=dynamic-eu"
+                  },
+                  "id": 1306,
+                  "slug": "tarren-mill"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/73?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 73
+            }
+         },
+         {
+            "profile": {
+               "name": "Aer\u00fds",
+               "id": 128766338,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1306?namespace=dynamic-eu"
+                  },
+                  "id": 1306,
+                  "slug": "tarren-mill"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/577?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 577
+            }
+         },
+         {
+            "profile": {
+               "name": "Tigr\u00e6l\u00f8rd",
+               "id": 159092101,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1382?namespace=dynamic-eu"
+                  },
+                  "id": 1382,
+                  "slug": "sanguino"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/105?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 105
+            }
+         },
+         {
+            "profile": {
+               "name": "Kenn\u00ec",
+               "id": 133591547,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1306?namespace=dynamic-eu"
+                  },
+                  "id": 1306,
+                  "slug": "tarren-mill"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/251?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 251
+            }
+         },
+         {
+            "profile": {
+               "name": "Noctyl",
+               "id": 153744263,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/559?namespace=dynamic-eu"
+                  },
+                  "id": 559,
+                  "slug": "stormreaver"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/258?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 258
+            }
+         }
+      ]
+   },
+   {
       "date": 1572099797000,
-      "ranking": 22,
+      "ranking": 25,
       "duration": 2457831,
       "level": 17,
       "members": [
@@ -74813,7 +77055,7 @@
    },
    {
       "date": 1571954822000,
-      "ranking": 23,
+      "ranking": 26,
       "duration": 2824447,
       "level": 17,
       "members": [
@@ -74931,7 +77173,7 @@
    },
    {
       "date": 1572094273000,
-      "ranking": 24,
+      "ranking": 27,
       "duration": 1715948,
       "level": 16,
       "members": [
@@ -75049,7 +77291,7 @@
    },
    {
       "date": 1571921468000,
-      "ranking": 25,
+      "ranking": 28,
       "duration": 1790573,
       "level": 16,
       "members": [
@@ -75167,7 +77409,7 @@
    },
    {
       "date": 1572085555000,
-      "ranking": 26,
+      "ranking": 29,
       "duration": 1818629,
       "level": 16,
       "members": [
@@ -75285,7 +77527,7 @@
    },
    {
       "date": 1572089530000,
-      "ranking": 27,
+      "ranking": 30,
       "duration": 1867583,
       "level": 16,
       "members": [
@@ -75403,7 +77645,7 @@
    },
    {
       "date": 1572034634000,
-      "ranking": 28,
+      "ranking": 31,
       "duration": 1874259,
       "level": 16,
       "members": [
@@ -75521,7 +77763,7 @@
    },
    {
       "date": 1571849777000,
-      "ranking": 29,
+      "ranking": 32,
       "duration": 1895304,
       "level": 16,
       "members": [
@@ -75639,7 +77881,7 @@
    },
    {
       "date": 1571846924000,
-      "ranking": 30,
+      "ranking": 33,
       "duration": 1917755,
       "level": 16,
       "members": [
@@ -75757,7 +77999,7 @@
    },
    {
       "date": 1572118846000,
-      "ranking": 31,
+      "ranking": 34,
       "duration": 1944251,
       "level": 16,
       "members": [
@@ -75875,7 +78117,7 @@
    },
    {
       "date": 1572113113000,
-      "ranking": 32,
+      "ranking": 35,
       "duration": 1979197,
       "level": 16,
       "members": [
@@ -75993,7 +78235,7 @@
    },
    {
       "date": 1571881089000,
-      "ranking": 33,
+      "ranking": 36,
       "duration": 2031316,
       "level": 16,
       "members": [
@@ -76111,7 +78353,7 @@
    },
    {
       "date": 1571881721000,
-      "ranking": 34,
+      "ranking": 37,
       "duration": 2037825,
       "level": 16,
       "members": [
@@ -76229,7 +78471,7 @@
    },
    {
       "date": 1572081060000,
-      "ranking": 35,
+      "ranking": 38,
       "duration": 2109068,
       "level": 16,
       "members": [
@@ -76347,7 +78589,7 @@
    },
    {
       "date": 1571904670000,
-      "ranking": 36,
+      "ranking": 39,
       "duration": 2118287,
       "level": 16,
       "members": [
@@ -76465,7 +78707,7 @@
    },
    {
       "date": 1571922782000,
-      "ranking": 37,
+      "ranking": 40,
       "duration": 2216847,
       "level": 16,
       "members": [
@@ -76583,7 +78825,7 @@
    },
    {
       "date": 1572122776000,
-      "ranking": 39,
+      "ranking": 42,
       "duration": 2403956,
       "level": 16,
       "members": [
@@ -76701,7 +78943,7 @@
    },
    {
       "date": 1572115726000,
-      "ranking": 40,
+      "ranking": 43,
       "duration": 2437277,
       "level": 16,
       "members": [
@@ -76819,7 +79061,7 @@
    },
    {
       "date": 1572043462000,
-      "ranking": 41,
+      "ranking": 44,
       "duration": 2474296,
       "level": 16,
       "members": [
@@ -76937,7 +79179,7 @@
    },
    {
       "date": 1572021244000,
-      "ranking": 42,
+      "ranking": 45,
       "duration": 2497537,
       "level": 16,
       "members": [
@@ -77055,7 +79297,7 @@
    },
    {
       "date": 1572105487000,
-      "ranking": 43,
+      "ranking": 46,
       "duration": 1383081,
       "level": 15,
       "members": [
@@ -77173,7 +79415,7 @@
    },
    {
       "date": 1571873100000,
-      "ranking": 44,
+      "ranking": 47,
       "duration": 1505715,
       "level": 15,
       "members": [
@@ -77291,7 +79533,7 @@
    },
    {
       "date": 1571957364000,
-      "ranking": 45,
+      "ranking": 48,
       "duration": 1514659,
       "level": 15,
       "members": [
@@ -77409,7 +79651,7 @@
    },
    {
       "date": 1571839569000,
-      "ranking": 46,
+      "ranking": 49,
       "duration": 1660780,
       "level": 15,
       "members": [
@@ -77527,7 +79769,7 @@
    },
    {
       "date": 1571842940000,
-      "ranking": 47,
+      "ranking": 50,
       "duration": 1670235,
       "level": 15,
       "members": [
@@ -77645,7 +79887,7 @@
    },
    {
       "date": 1571874466000,
-      "ranking": 48,
+      "ranking": 52,
       "duration": 1747379,
       "level": 15,
       "members": [
@@ -77763,7 +80005,7 @@
    },
    {
       "date": 1572129223000,
-      "ranking": 49,
+      "ranking": 53,
       "duration": 1782991,
       "level": 15,
       "members": [
@@ -77881,7 +80123,7 @@
    },
    {
       "date": 1572017397000,
-      "ranking": 50,
+      "ranking": 54,
       "duration": 1819497,
       "level": 15,
       "members": [
@@ -77999,7 +80241,7 @@
    },
    {
       "date": 1572011707000,
-      "ranking": 51,
+      "ranking": 55,
       "duration": 1820259,
       "level": 15,
       "members": [
@@ -78117,7 +80359,7 @@
    },
    {
       "date": 1572036243000,
-      "ranking": 52,
+      "ranking": 56,
       "duration": 1822618,
       "level": 15,
       "members": [
@@ -78235,7 +80477,7 @@
    },
    {
       "date": 1571946460000,
-      "ranking": 53,
+      "ranking": 57,
       "duration": 1832327,
       "level": 15,
       "members": [
@@ -78353,7 +80595,7 @@
    },
    {
       "date": 1572015908000,
-      "ranking": 54,
+      "ranking": 58,
       "duration": 1845384,
       "level": 15,
       "members": [
@@ -78471,7 +80713,7 @@
    },
    {
       "date": 1571840912000,
-      "ranking": 55,
+      "ranking": 59,
       "duration": 1847040,
       "level": 15,
       "members": [
@@ -78589,7 +80831,7 @@
    },
    {
       "date": 1572045917000,
-      "ranking": 56,
+      "ranking": 60,
       "duration": 1849016,
       "level": 15,
       "members": [
@@ -78707,7 +80949,7 @@
    },
    {
       "date": 1571848240000,
-      "ranking": 57,
+      "ranking": 61,
       "duration": 1865860,
       "level": 15,
       "members": [
@@ -78825,7 +81067,7 @@
    },
    {
       "date": 1572015146000,
-      "ranking": 58,
+      "ranking": 62,
       "duration": 1866921,
       "level": 15,
       "members": [
@@ -78943,7 +81185,7 @@
    },
    {
       "date": 1572029165000,
-      "ranking": 59,
+      "ranking": 63,
       "duration": 1874647,
       "level": 15,
       "members": [
@@ -79061,7 +81303,7 @@
    },
    {
       "date": 1572126367000,
-      "ranking": 60,
+      "ranking": 64,
       "duration": 1878353,
       "level": 15,
       "members": [
@@ -79179,7 +81421,7 @@
    },
    {
       "date": 1571930896000,
-      "ranking": 61,
+      "ranking": 65,
       "duration": 1883931,
       "level": 15,
       "members": [
@@ -79297,7 +81539,7 @@
    },
    {
       "date": 1571911627000,
-      "ranking": 62,
+      "ranking": 66,
       "duration": 1915078,
       "level": 15,
       "members": [
@@ -79415,7 +81657,7 @@
    },
    {
       "date": 1572118863000,
-      "ranking": 63,
+      "ranking": 67,
       "duration": 1940356,
       "level": 15,
       "members": [
@@ -79533,7 +81775,7 @@
    },
    {
       "date": 1572107449000,
-      "ranking": 64,
+      "ranking": 68,
       "duration": 1947351,
       "level": 15,
       "members": [
@@ -79651,7 +81893,7 @@
    },
    {
       "date": 1571859791000,
-      "ranking": 65,
+      "ranking": 69,
       "duration": 1955730,
       "level": 15,
       "members": [
@@ -79769,7 +82011,7 @@
    },
    {
       "date": 1571843559000,
-      "ranking": 66,
+      "ranking": 70,
       "duration": 1978602,
       "level": 15,
       "members": [
@@ -79887,7 +82129,7 @@
    },
    {
       "date": 1572020834000,
-      "ranking": 67,
+      "ranking": 71,
       "duration": 1997851,
       "level": 15,
       "members": [
@@ -80005,7 +82247,7 @@
    },
    {
       "date": 1572014920000,
-      "ranking": 68,
+      "ranking": 72,
       "duration": 2024911,
       "level": 15,
       "members": [
@@ -80123,7 +82365,7 @@
    },
    {
       "date": 1572040417000,
-      "ranking": 69,
+      "ranking": 73,
       "duration": 2033275,
       "level": 15,
       "members": [
@@ -80241,7 +82483,7 @@
    },
    {
       "date": 1571931194000,
-      "ranking": 70,
+      "ranking": 74,
       "duration": 2044416,
       "level": 15,
       "members": [
@@ -80359,7 +82601,7 @@
    },
    {
       "date": 1572131533000,
-      "ranking": 71,
+      "ranking": 75,
       "duration": 2062612,
       "level": 15,
       "members": [
@@ -80477,7 +82719,7 @@
    },
    {
       "date": 1572026930000,
-      "ranking": 72,
+      "ranking": 76,
       "duration": 2073516,
       "level": 15,
       "members": [
@@ -80595,7 +82837,7 @@
    },
    {
       "date": 1572030185000,
-      "ranking": 73,
+      "ranking": 77,
       "duration": 2078456,
       "level": 15,
       "members": [
@@ -80713,7 +82955,7 @@
    },
    {
       "date": 1571965277000,
-      "ranking": 74,
+      "ranking": 78,
       "duration": 2095176,
       "level": 15,
       "members": [
@@ -80831,7 +83073,7 @@
    },
    {
       "date": 1572110758000,
-      "ranking": 75,
+      "ranking": 79,
       "duration": 2107516,
       "level": 15,
       "members": [
@@ -80949,7 +83191,7 @@
    },
    {
       "date": 1571950312000,
-      "ranking": 76,
+      "ranking": 80,
       "duration": 2115766,
       "level": 15,
       "members": [
@@ -81067,7 +83309,7 @@
    },
    {
       "date": 1571857272000,
-      "ranking": 77,
+      "ranking": 81,
       "duration": 2125466,
       "level": 15,
       "members": [
@@ -81185,7 +83427,7 @@
    },
    {
       "date": 1572086926000,
-      "ranking": 78,
+      "ranking": 82,
       "duration": 2146239,
       "level": 15,
       "members": [
@@ -81303,7 +83545,7 @@
    },
    {
       "date": 1572127319000,
-      "ranking": 79,
+      "ranking": 83,
       "duration": 2183398,
       "level": 15,
       "members": [
@@ -81421,7 +83663,7 @@
    },
    {
       "date": 1571943799000,
-      "ranking": 80,
+      "ranking": 84,
       "duration": 2203869,
       "level": 15,
       "members": [
@@ -81539,7 +83781,7 @@
    },
    {
       "date": 1572109110000,
-      "ranking": 81,
+      "ranking": 85,
       "duration": 2207767,
       "level": 15,
       "members": [
@@ -81657,7 +83899,7 @@
    },
    {
       "date": 1572136367000,
-      "ranking": 82,
+      "ranking": 86,
       "duration": 2349942,
       "level": 15,
       "members": [
@@ -81775,7 +84017,7 @@
    },
    {
       "date": 1571943955000,
-      "ranking": 83,
+      "ranking": 87,
       "duration": 2395992,
       "level": 15,
       "members": [
@@ -81893,7 +84135,7 @@
    },
    {
       "date": 1571839205000,
-      "ranking": 84,
+      "ranking": 88,
       "duration": 2489378,
       "level": 15,
       "members": [
@@ -82011,7 +84253,7 @@
    },
    {
       "date": 1571959245000,
-      "ranking": 85,
+      "ranking": 89,
       "duration": 2521575,
       "level": 15,
       "members": [
@@ -82129,7 +84371,7 @@
    },
    {
       "date": 1572078998000,
-      "ranking": 86,
+      "ranking": 90,
       "duration": 2646685,
       "level": 15,
       "members": [
@@ -82247,7 +84489,7 @@
    },
    {
       "date": 1572127602000,
-      "ranking": 87,
+      "ranking": 91,
       "duration": 2775704,
       "level": 15,
       "members": [
@@ -82365,7 +84607,7 @@
    },
    {
       "date": 1572133981000,
-      "ranking": 88,
+      "ranking": 92,
       "duration": 3832796,
       "level": 15,
       "members": [
