@@ -2,10 +2,10 @@ import json
 
 class Team:
     def __init__(self, run_data):
-        self.date = run_data["date"]
+        self.date = run_data["completed_timestamp"]
         self.ranking = run_data["ranking"]
         self.duration = run_data["duration"]
-        self.level = run_data["level"]
+        self.level = run_data["keystone_level"]
         self.members = run_data["members"]
 
     def _eq_(self, other):

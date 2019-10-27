@@ -96,18 +96,8 @@ def get_dungeon_leaderboards(realm_id, weeks):
 
 
 if __name__ == "__main__":
-    teams = list()
-    #ply = get_dungeon_leaderboards(1379,1)
-    with open("runs.json", "r") as runs:
-        leaderboard = json.load(runs)
-        leaderboard = list(map(lambda x: Team(x), leaderboard))
-        teams = list()
-        print(len(leaderboard))
-
-        get_possible_teams(leaderboard, teams)
-        print(len(teams))
-"""
-    with open("groups.json", "w+") as f:
-        json_data = json.dumps(list(ply), indent=3)
-        f.write(json_data)    
-"""
+    runs = get_dungeon_leaderboards(1379,1)
+    with open("runs.json", "w+") as f:
+        data = list(map(lambda x: vars(x), runs))
+        json_data = json.dumps(data, indent=3)
+        f.write(json_data)
