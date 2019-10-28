@@ -1,7 +1,6 @@
 import requests
 import json
-from teamFinder import get_possible_teams
-from teamFinder import Team
+from teamFinder import *
 
 # routes
 """ 
@@ -104,9 +103,9 @@ def get_dungeon_leaderboards(realm_id, weeks):
 
 
 if __name__ == "__main__":
-    runs = get_dungeon_leaderboards(1379,1)
-    print(type(runs[0]))
-    with open("Data/runs.json", "w+") as f:
-        data = list(map(lambda x: vars(x), runs))
-        json_data = json.dumps(data, indent=3)
-        f.write(json_data)
+    #runs = get_dungeon_leaderboards(1379,1)
+    repo = TeamRepo.fromJsonFile("Data/runs.json")
+    print(len(repo))
+    print(type(repo.runs[0]))
+    repo.remove_possible_pugs()
+    print(len(repo))
