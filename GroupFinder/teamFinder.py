@@ -27,12 +27,14 @@ class Team:
             members  = team["members"])
 
     def __eq__(self, other):
+        if type(other) != type(self):
+            return False
         first_group = self.members
         second_group = other.members
         member_count = 0
         for member in first_group:
             for other_member in second_group:
-                if member["profile"]["id"] == other_member["profile"][id]:
+                if member["profile"]["id"] == other_member["profile"]["id"]:
                     member_count += 1
                     continue
 
@@ -71,11 +73,13 @@ class TeamRepo:
         groups = []
         for i in range(len(self.runs)):
             group_count= 0
+            if self.runs[i] in groups: continue
             for j in range(i + 1, len(self.runs)):
                 if self.runs[i] == self.runs[j]:
                     group_count += 1
-            if group_count > 2 and self.runs[i] not in groups:
-                groups.append(self.runs)
+            if group_count > 2:
+                groups.append(self.runs[i])
+
         self.runs = groups
     
 if __name__ == "__main__":

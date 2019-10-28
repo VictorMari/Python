@@ -1,123 +1,1182 @@
 [
    {
-      "count": 684,
-      "Team": {
-         "date": 1572125671000,
-         "ranking": 1,
-         "duration": 2112426,
-         "level": 20,
-         "members": [
-            {
-               "profile": {
-                  "name": "Szyszuunia",
-                  "id": 128066354,
-                  "realm": {
-                     "key": {
-                        "href": "https://eu.api.blizzard.com/data/wow/realm/524?namespace=dynamic-eu"
-                     },
-                     "id": 524,
-                     "slug": "burning-legion"
-                  }
-               },
-               "faction": {
-                  "type": "HORDE"
-               },
-               "specialization": {
+      "date": 1572125671000,
+      "ranking": 1,
+      "duration": 2112426,
+      "level": 20,
+      "members": [
+         {
+            "profile": {
+               "name": "Szyszuunia",
+               "id": 128066354,
+               "realm": {
                   "key": {
-                     "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/105?namespace=static-8.2.5_31884-eu"
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/524?namespace=dynamic-eu"
                   },
-                  "id": 105
+                  "id": 524,
+                  "slug": "burning-legion"
                }
             },
-            {
-               "profile": {
-                  "name": "Surieeqt",
-                  "id": 153427901,
-                  "realm": {
-                     "key": {
-                        "href": "https://eu.api.blizzard.com/data/wow/realm/518?namespace=dynamic-eu"
-                     },
-                     "id": 518,
-                     "slug": "agamaggan"
-                  }
-               },
-               "faction": {
-                  "type": "HORDE"
-               },
-               "specialization": {
-                  "key": {
-                     "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/577?namespace=static-8.2.5_31884-eu"
-                  },
-                  "id": 577
-               }
+            "faction": {
+               "type": "HORDE"
             },
-            {
-               "profile": {
-                  "name": "Acydmaster",
-                  "id": 156596166,
-                  "realm": {
-                     "key": {
-                        "href": "https://eu.api.blizzard.com/data/wow/realm/1382?namespace=dynamic-eu"
-                     },
-                     "id": 1382,
-                     "slug": "sanguino"
-                  }
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/105?namespace=static-8.2.5_31884-eu"
                },
-               "faction": {
-                  "type": "HORDE"
-               },
-               "specialization": {
-                  "key": {
-                     "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/268?namespace=static-8.2.5_31884-eu"
-                  },
-                  "id": 268
-               }
-            },
-            {
-               "profile": {
-                  "name": "Eclecto",
-                  "id": 155982088,
-                  "realm": {
-                     "key": {
-                        "href": "https://eu.api.blizzard.com/data/wow/realm/625?namespace=dynamic-eu"
-                     },
-                     "id": 625,
-                     "slug": "twisting-nether"
-                  }
-               },
-               "faction": {
-                  "type": "HORDE"
-               },
-               "specialization": {
-                  "key": {
-                     "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/260?namespace=static-8.2.5_31884-eu"
-                  },
-                  "id": 260
-               }
-            },
-            {
-               "profile": {
-                  "name": "Tsankicobra",
-                  "id": 131680791,
-                  "realm": {
-                     "key": {
-                        "href": "https://eu.api.blizzard.com/data/wow/realm/625?namespace=dynamic-eu"
-                     },
-                     "id": 625,
-                     "slug": "twisting-nether"
-                  }
-               },
-               "faction": {
-                  "type": "HORDE"
-               },
-               "specialization": {
-                  "key": {
-                     "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/262?namespace=static-8.2.5_31884-eu"
-                  },
-                  "id": 262
-               }
+               "id": 105
             }
-         ]
-      }
+         },
+         {
+            "profile": {
+               "name": "Surieeqt",
+               "id": 153427901,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/518?namespace=dynamic-eu"
+                  },
+                  "id": 518,
+                  "slug": "agamaggan"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/577?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 577
+            }
+         },
+         {
+            "profile": {
+               "name": "Acydmaster",
+               "id": 156596166,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1382?namespace=dynamic-eu"
+                  },
+                  "id": 1382,
+                  "slug": "sanguino"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/268?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 268
+            }
+         },
+         {
+            "profile": {
+               "name": "Eclecto",
+               "id": 155982088,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/625?namespace=dynamic-eu"
+                  },
+                  "id": 625,
+                  "slug": "twisting-nether"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/260?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 260
+            }
+         },
+         {
+            "profile": {
+               "name": "Tsankicobra",
+               "id": 131680791,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/625?namespace=dynamic-eu"
+                  },
+                  "id": 625,
+                  "slug": "twisting-nether"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/262?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 262
+            }
+         }
+      ]
+   },
+   {
+      "date": 1571955546000,
+      "ranking": 8,
+      "duration": 1988339,
+      "level": 19,
+      "members": [
+         {
+            "profile": {
+               "name": "Aetherwing",
+               "id": 100617083,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/585?namespace=dynamic-eu"
+                  },
+                  "id": 585,
+                  "slug": "frostwolf"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/577?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 577
+            }
+         },
+         {
+            "profile": {
+               "name": "Snow\u00earry",
+               "id": 100127401,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/585?namespace=dynamic-eu"
+                  },
+                  "id": 585,
+                  "slug": "frostwolf"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/260?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 260
+            }
+         },
+         {
+            "profile": {
+               "name": "Oreok\u00eaks",
+               "id": 131061127,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/594?namespace=dynamic-eu"
+                  },
+                  "id": 594,
+                  "slug": "nathrezim"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/253?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 253
+            }
+         },
+         {
+            "profile": {
+               "name": "K\u00eftsune",
+               "id": 156425722,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1382?namespace=dynamic-eu"
+                  },
+                  "id": 1382,
+                  "slug": "sanguino"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/270?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 270
+            }
+         },
+         {
+            "profile": {
+               "name": "K\u00efjo",
+               "id": 157154054,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1379?namespace=dynamic-eu"
+                  },
+                  "id": 1379,
+                  "slug": "zuljin"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/268?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 268
+            }
+         }
+      ]
+   },
+   {
+      "date": 1572045088000,
+      "ranking": 30,
+      "duration": 2390471,
+      "level": 17,
+      "members": [
+         {
+            "profile": {
+               "name": "Malevo",
+               "id": 154157846,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1382?namespace=dynamic-eu"
+                  },
+                  "id": 1382,
+                  "slug": "sanguino"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/253?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 253
+            }
+         },
+         {
+            "profile": {
+               "name": "Vivardi",
+               "id": 152466481,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1379?namespace=dynamic-eu"
+                  },
+                  "id": 1379,
+                  "slug": "zuljin"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/264?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 264
+            }
+         },
+         {
+            "profile": {
+               "name": "G\u00f8nz\u00f8k",
+               "id": 146192222,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1382?namespace=dynamic-eu"
+                  },
+                  "id": 1382,
+                  "slug": "sanguino"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/260?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 260
+            }
+         },
+         {
+            "profile": {
+               "name": "Kniskui",
+               "id": 151731468,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1379?namespace=dynamic-eu"
+                  },
+                  "id": 1379,
+                  "slug": "zuljin"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/262?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 262
+            }
+         },
+         {
+            "profile": {
+               "name": "K\u00edera",
+               "id": 154951900,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1382?namespace=dynamic-eu"
+                  },
+                  "id": 1382,
+                  "slug": "sanguino"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/581?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 581
+            }
+         }
+      ]
+   },
+   {
+      "date": 1572134003000,
+      "ranking": 61,
+      "duration": 2174172,
+      "level": 16,
+      "members": [
+         {
+            "profile": {
+               "name": "Dryadiah",
+               "id": 120738300,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1379?namespace=dynamic-eu"
+                  },
+                  "id": 1379,
+                  "slug": "zuljin"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/103?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 103
+            }
+         },
+         {
+            "profile": {
+               "name": "Tfknovac",
+               "id": 145329176,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1382?namespace=dynamic-eu"
+                  },
+                  "id": 1382,
+                  "slug": "sanguino"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/253?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 253
+            }
+         },
+         {
+            "profile": {
+               "name": "Healus",
+               "id": 156310117,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1382?namespace=dynamic-eu"
+                  },
+                  "id": 1382,
+                  "slug": "sanguino"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/257?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 257
+            }
+         },
+         {
+            "profile": {
+               "name": "Zerudax",
+               "id": 114310540,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1379?namespace=dynamic-eu"
+                  },
+                  "id": 1379,
+                  "slug": "zuljin"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/73?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 73
+            }
+         },
+         {
+            "profile": {
+               "name": "Shirot",
+               "id": 136286149,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1382?namespace=dynamic-eu"
+                  },
+                  "id": 1382,
+                  "slug": "sanguino"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/262?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 262
+            }
+         }
+      ]
+   },
+   {
+      "date": 1572200133000,
+      "ranking": 51,
+      "duration": 1782801,
+      "level": 16,
+      "members": [
+         {
+            "profile": {
+               "name": "Kwatile",
+               "id": 151124348,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1379?namespace=dynamic-eu"
+                  },
+                  "id": 1379,
+                  "slug": "zuljin"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/102?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 102
+            }
+         },
+         {
+            "profile": {
+               "name": "Itzanm\u00e1",
+               "id": 103167962,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1382?namespace=dynamic-eu"
+                  },
+                  "id": 1382,
+                  "slug": "sanguino"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/262?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 262
+            }
+         },
+         {
+            "profile": {
+               "name": "Russito",
+               "id": 156904550,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1382?namespace=dynamic-eu"
+                  },
+                  "id": 1382,
+                  "slug": "sanguino"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/269?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 269
+            }
+         },
+         {
+            "profile": {
+               "name": "V\u00f8lker",
+               "id": 154851120,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1379?namespace=dynamic-eu"
+                  },
+                  "id": 1379,
+                  "slug": "zuljin"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/581?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 581
+            }
+         },
+         {
+            "profile": {
+               "name": "Ost\u00e1ra",
+               "id": 143484610,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1379?namespace=dynamic-eu"
+                  },
+                  "id": 1379,
+                  "slug": "zuljin"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/264?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 264
+            }
+         }
+      ]
+   },
+   {
+      "date": 1572115058000,
+      "ranking": 77,
+      "duration": 1503716,
+      "level": 15,
+      "members": [
+         {
+            "profile": {
+               "name": "Zsick",
+               "id": 140926096,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1382?namespace=dynamic-eu"
+                  },
+                  "id": 1382,
+                  "slug": "sanguino"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/577?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 577
+            }
+         },
+         {
+            "profile": {
+               "name": "Frieedhof",
+               "id": 156613927,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1382?namespace=dynamic-eu"
+                  },
+                  "id": 1382,
+                  "slug": "sanguino"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/70?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 70
+            }
+         },
+         {
+            "profile": {
+               "name": "Hotsx",
+               "id": 88502480,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1382?namespace=dynamic-eu"
+                  },
+                  "id": 1382,
+                  "slug": "sanguino"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/105?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 105
+            }
+         },
+         {
+            "profile": {
+               "name": "Warchap\u00edn",
+               "id": 152745245,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1379?namespace=dynamic-eu"
+                  },
+                  "id": 1379,
+                  "slug": "zuljin"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/73?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 73
+            }
+         },
+         {
+            "profile": {
+               "name": "Edarke",
+               "id": 132923445,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1379?namespace=dynamic-eu"
+                  },
+                  "id": 1379,
+                  "slug": "zuljin"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/258?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 258
+            }
+         }
+      ]
+   },
+   {
+      "date": 1571849349000,
+      "ranking": 7,
+      "duration": 1863989,
+      "level": 18,
+      "members": [
+         {
+            "profile": {
+               "name": "Ragermaster",
+               "id": 158124237,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1379?namespace=dynamic-eu"
+                  },
+                  "id": 1379,
+                  "slug": "zuljin"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/268?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 268
+            }
+         },
+         {
+            "profile": {
+               "name": "Steaz",
+               "id": 143040559,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1382?namespace=dynamic-eu"
+                  },
+                  "id": 1382,
+                  "slug": "sanguino"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/105?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 105
+            }
+         },
+         {
+            "profile": {
+               "name": "M\u00f6rth\u00eb",
+               "id": 158197974,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1382?namespace=dynamic-eu"
+                  },
+                  "id": 1382,
+                  "slug": "sanguino"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/577?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 577
+            }
+         },
+         {
+            "profile": {
+               "name": "Ipar",
+               "id": 157693904,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1379?namespace=dynamic-eu"
+                  },
+                  "id": 1379,
+                  "slug": "zuljin"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/63?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 63
+            }
+         },
+         {
+            "profile": {
+               "name": "S\u00efgilosa",
+               "id": 175528468,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1305?namespace=dynamic-eu"
+                  },
+                  "id": 1305,
+                  "slug": "kazzak"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/259?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 259
+            }
+         }
+      ]
+   },
+   {
+      "date": 1572050695000,
+      "ranking": 1,
+      "duration": 2143965,
+      "level": 20,
+      "members": [
+         {
+            "profile": {
+               "name": "Shadyspirits",
+               "id": 88808099,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1382?namespace=dynamic-eu"
+                  },
+                  "id": 1382,
+                  "slug": "sanguino"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/262?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 262
+            }
+         },
+         {
+            "profile": {
+               "name": "Starkc",
+               "id": 158736998,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1382?namespace=dynamic-eu"
+                  },
+                  "id": 1382,
+                  "slug": "sanguino"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/105?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 105
+            }
+         },
+         {
+            "profile": {
+               "name": "Sc\u00efzor",
+               "id": 156387713,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1379?namespace=dynamic-eu"
+                  },
+                  "id": 1379,
+                  "slug": "zuljin"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/577?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 577
+            }
+         },
+         {
+            "profile": {
+               "name": "Gxdclap",
+               "id": 157910753,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1382?namespace=dynamic-eu"
+                  },
+                  "id": 1382,
+                  "slug": "sanguino"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/73?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 73
+            }
+         },
+         {
+            "profile": {
+               "name": "Relya",
+               "id": 156398773,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1379?namespace=dynamic-eu"
+                  },
+                  "id": 1379,
+                  "slug": "zuljin"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/253?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 253
+            }
+         }
+      ]
+   },
+   {
+      "date": 1572117225000,
+      "ranking": 33,
+      "duration": 1744471,
+      "level": 15,
+      "members": [
+         {
+            "profile": {
+               "name": "Debii",
+               "id": 151166525,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1382?namespace=dynamic-eu"
+                  },
+                  "id": 1382,
+                  "slug": "sanguino"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/65?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 65
+            }
+         },
+         {
+            "profile": {
+               "name": "Frieedhof",
+               "id": 156613927,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1382?namespace=dynamic-eu"
+                  },
+                  "id": 1382,
+                  "slug": "sanguino"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/70?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 70
+            }
+         },
+         {
+            "profile": {
+               "name": "Siilenbot",
+               "id": 136723175,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1379?namespace=dynamic-eu"
+                  },
+                  "id": 1379,
+                  "slug": "zuljin"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/253?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 253
+            }
+         },
+         {
+            "profile": {
+               "name": "Warchap\u00edn",
+               "id": 152745245,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1379?namespace=dynamic-eu"
+                  },
+                  "id": 1379,
+                  "slug": "zuljin"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/73?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 73
+            }
+         },
+         {
+            "profile": {
+               "name": "Zsick",
+               "id": 140926096,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1382?namespace=dynamic-eu"
+                  },
+                  "id": 1382,
+                  "slug": "sanguino"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/577?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 577
+            }
+         }
+      ]
+   },
+   {
+      "date": 1572193380000,
+      "ranking": 57,
+      "duration": 2035530,
+      "level": 15,
+      "members": [
+         {
+            "profile": {
+               "name": "Upawn",
+               "id": 158204471,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1379?namespace=dynamic-eu"
+                  },
+                  "id": 1379,
+                  "slug": "zuljin"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 66
+            }
+         },
+         {
+            "profile": {
+               "name": "Pazzox",
+               "id": 159155858,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1382?namespace=dynamic-eu"
+                  },
+                  "id": 1382,
+                  "slug": "sanguino"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/63?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 63
+            }
+         },
+         {
+            "profile": {
+               "name": "D\u00ebch",
+               "id": 153858653,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1306?namespace=dynamic-eu"
+                  },
+                  "id": 1306,
+                  "slug": "tarren-mill"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/577?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 577
+            }
+         },
+         {
+            "profile": {
+               "name": "Elinheim",
+               "id": 148331091,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1306?namespace=dynamic-eu"
+                  },
+                  "id": 1306,
+                  "slug": "tarren-mill"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/256?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 256
+            }
+         },
+         {
+            "profile": {
+               "name": "Tearzan",
+               "id": 150164560,
+               "realm": {
+                  "key": {
+                     "href": "https://eu.api.blizzard.com/data/wow/realm/1306?namespace=dynamic-eu"
+                  },
+                  "id": 1306,
+                  "slug": "tarren-mill"
+               }
+            },
+            "faction": {
+               "type": "HORDE"
+            },
+            "specialization": {
+               "key": {
+                  "href": "https://eu.api.blizzard.com/data/wow/playable-specialization/259?namespace=static-8.2.5_31884-eu"
+               },
+               "id": 259
+            }
+         }
+      ]
    }
 ]

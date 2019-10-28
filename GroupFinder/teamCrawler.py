@@ -98,14 +98,12 @@ def get_dungeon_leaderboards(realm_id, weeks):
             leaders = make_request(route, parameters)
             members = __aggregator__(leaders["leading_groups"])
             players.extend(members)
-    #players.sort()
+    
     return players
 
 
 if __name__ == "__main__":
     #runs = get_dungeon_leaderboards(1379,1)
     repo = TeamRepo.fromJsonFile("Data/runs.json")
-    print(len(repo))
-    print(type(repo.runs[0]))
     repo.remove_possible_pugs()
-    print(len(repo))
+    repo.writeJson("Data/groups.json")
