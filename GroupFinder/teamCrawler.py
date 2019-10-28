@@ -1,6 +1,6 @@
 import requests
 import json
-from teamFinder import *
+from GroupFinder.teamFinder import *
 
 # routes
 """ 
@@ -98,12 +98,11 @@ def get_dungeon_leaderboards(realm_id, weeks):
             leaders = make_request(route, parameters)
             members = __aggregator__(leaders["leading_groups"])
             players.extend(members)
-    
-    return players
+    return TeamRepo(players)
 
 
 if __name__ == "__main__":
     #runs = get_dungeon_leaderboards(1379,1)
-    repo = TeamRepo.fromJsonFile("Data/runs.json")
+    repo = TeamRepo.fromJsonFile("GroupFinder/Data/runs.json")
     repo.remove_possible_pugs()
-    repo.writeJson("Data/groups.json")
+    repo.writeJson("GroupFinder/Data/groups.json")
