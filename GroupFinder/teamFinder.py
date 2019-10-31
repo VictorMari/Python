@@ -40,6 +40,8 @@ class Team:
 
         return member_count > 3
         
+    def __hash__(self):
+        return self.date
     
     def __ne__(self,other):
         return not self.__eq__(other)
@@ -49,6 +51,17 @@ class Team:
 
     def __gt__(self,other):
         return self.level > other.level
+
+class MTeam:
+    def __init__(self, team: "Team", count):
+        self.team = team
+        self.count = count
+
+    @staticmethod
+    def writeTeamsToFile(team_repo):
+        with open("GroupFinder/Data/MythikGrops.json", "w+") as f:
+            json_data = map(lambda x: vars(x), team_repo)
+            json.dump(team_repo, f)            
 
 class TeamRepo:
     def __init__(self, teams: "list"):
@@ -69,7 +82,7 @@ class TeamRepo:
     def __len__(self):
         return len(self.runs)
 
-    def remove_possible_pugs(self):
+    def get_possible_groups(self):
         groups = []
         for i in range(len(self.runs)):
             group_count= 0
@@ -78,9 +91,18 @@ class TeamRepo:
                 if self.runs[i] == self.runs[j]:
                     group_count += 1
             if group_count > 2:
-                groups.append(self.runs[i])
+                groups.append(MTeam(self.runs[i], group_count))
 
-        self.runs = groups
+        return groups
+    
+    def get_groups(self):
+        non_groups = set(self.runs)
+        self.runs = set(self.runs) - non_groups
+        return list(map(lambda x: MTeam(x, 0), self.runs))
     
 if __name__ == "__main__":
-   pass
+    repo = TeamRepo.fromJsonFile("Data/runs.json")
+    groups = repo.get_possible_groups()
+    groups2 = repo.get_groups()
+
+    print(f"groups {len(groups)}, groups2 {len(groups2)}")

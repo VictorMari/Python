@@ -100,9 +100,9 @@ def get_dungeon_leaderboards(realm_id, weeks):
             players.extend(members)
     return TeamRepo(players)
 
-
 if __name__ == "__main__":
     #runs = get_dungeon_leaderboards(1379,1)
     repo = TeamRepo.fromJsonFile("GroupFinder/Data/runs.json")
-    repo.remove_possible_pugs()
+    groups = repo.get_possible_groups()
+    MTeam.writeTeamsToFile(groups)
     repo.writeJson("GroupFinder/Data/groups.json")
