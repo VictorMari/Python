@@ -1,0 +1,269 @@
+{
+	"info": {
+		"_postman_id": "7ffd8162-3f78-469f-97f2-8187f47ba8bc",
+		"name": "Mythic+",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Get dungeons",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get server list",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "EU0u2bLXs919MxBDuqTEowNeSW0KEnnhjY",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://eu.api.blizzard.com/data/wow/connected-realm/index?namespace=dynamic-eu&locale=en_US",
+					"protocol": "https",
+					"host": [
+						"eu",
+						"api",
+						"blizzard",
+						"com"
+					],
+					"path": [
+						"data",
+						"wow",
+						"connected-realm",
+						"index"
+					],
+					"query": [
+						{
+							"key": "namespace",
+							"value": "dynamic-eu"
+						},
+						{
+							"key": "locale",
+							"value": "en_US"
+						},
+						{
+							"key": "access_token",
+							"value": "EU0u2bLXs919MxBDuqTEowNeSW0KEnnhjY",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get key",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://us.api.blizzard.com/data/wow/realm/57?namespace=dynamic-us",
+					"protocol": "https",
+					"host": [
+						"us",
+						"api",
+						"blizzard",
+						"com"
+					],
+					"path": [
+						"data",
+						"wow",
+						"realm",
+						"57"
+					],
+					"query": [
+						{
+							"key": "namespace",
+							"value": "dynamic-us"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get server by id",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://eu.api.blizzard.com/data/wow/connected-realm/1379?namespace=dynamic-eu",
+					"protocol": "https",
+					"host": [
+						"eu",
+						"api",
+						"blizzard",
+						"com"
+					],
+					"path": [
+						"data",
+						"wow",
+						"connected-realm",
+						"1379"
+					],
+					"query": [
+						{
+							"key": "namespace",
+							"value": "dynamic-eu"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Period by id",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://eu.api.blizzard.com/data/wow/mythic-keystone/period/index?namespace=dynamic-eu",
+					"protocol": "https",
+					"host": [
+						"eu",
+						"api",
+						"blizzard",
+						"com"
+					],
+					"path": [
+						"data",
+						"wow",
+						"mythic-keystone",
+						"period",
+						"index"
+					],
+					"query": [
+						{
+							"key": "namespace",
+							"value": "dynamic-eu"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get dungeon index",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://eu.api.blizzard.com/data/wow/mythic-keystone/dungeon/index?namespace=dynamic-eu",
+					"protocol": "https",
+					"host": [
+						"eu",
+						"api",
+						"blizzard",
+						"com"
+					],
+					"path": [
+						"data",
+						"wow",
+						"mythic-keystone",
+						"dungeon",
+						"index"
+					],
+					"query": [
+						{
+							"key": "namespace",
+							"value": "dynamic-eu"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get M+ leaderboard",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://eu.api.blizzard.com/data/wow/connected-realm/1379/mythic-leaderboard/244/period/719?namespace=dynamic-eu",
+					"protocol": "https",
+					"host": [
+						"eu",
+						"api",
+						"blizzard",
+						"com"
+					],
+					"path": [
+						"data",
+						"wow",
+						"connected-realm",
+						"1379",
+						"mythic-leaderboard",
+						"244",
+						"period",
+						"719"
+					],
+					"query": [
+						{
+							"key": "namespace",
+							"value": "dynamic-eu"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get player by id",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	],
+	"auth": {
+		"type": "bearer",
+		"bearer": [
+			{
+				"key": "token",
+				"value": "EUs7Og2qThFqDhrMr6OHhB2pj5qMIHYMx8",
+				"type": "string"
+			}
+		]
+	},
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"id": "63ee5cad-9cce-4e13-bc98-550a292c708a",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"id": "955133d7-de20-4d99-a3e3-76d741b5ea2d",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"protocolProfileBehavior": {}
+}
